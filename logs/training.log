@@ -1,0 +1,745 @@
+2026-04-29 19:54:59,771 - INFO - Epoch 1: Train Loss = 1.4128, Dev Loss = 1.3708, Train Accuracy = 0.2792, Dev Accuracy = 0.3162
+2026-04-29 19:57:55,830 - INFO - Epoch 2: Train Loss = 1.2891, Dev Loss = 1.2431, Train Accuracy = 0.4008, Dev Accuracy = 0.4350
+2026-04-29 20:00:38,425 - INFO - Epoch 3: Train Loss = 1.2108, Dev Loss = 1.0585, Train Accuracy = 0.4733, Dev Accuracy = 0.5583
+2026-04-29 20:03:26,614 - INFO - Epoch 4: Train Loss = 1.2626, Dev Loss = 1.2157, Train Accuracy = 0.4239, Dev Accuracy = 0.4378
+2026-04-29 20:08:14,601 - INFO - Epoch 1: Train Loss = 1.2394, Dev Loss = 1.1198, Train Accuracy = 0.4473, Dev Accuracy = 0.5192
+2026-04-29 20:10:57,253 - INFO - Epoch 2: Train Loss = 1.0735, Dev Loss = 0.9903, Train Accuracy = 0.5431, Dev Accuracy = 0.5883
+2026-04-29 20:13:43,384 - INFO - Epoch 3: Train Loss = 0.9995, Dev Loss = 0.9720, Train Accuracy = 0.5843, Dev Accuracy = 0.6112
+2026-04-29 20:16:34,858 - INFO - Epoch 4: Train Loss = 0.9579, Dev Loss = 0.9345, Train Accuracy = 0.6036, Dev Accuracy = 0.6254
+2026-04-29 20:19:20,603 - INFO - Epoch 5: Train Loss = 0.9243, Dev Loss = 0.9693, Train Accuracy = 0.6195, Dev Accuracy = 0.6149
+2026-04-29 20:22:05,770 - INFO - Epoch 6: Train Loss = 0.8988, Dev Loss = 0.9126, Train Accuracy = 0.6329, Dev Accuracy = 0.6397
+2026-04-29 20:24:53,633 - INFO - Epoch 7: Train Loss = 0.8806, Dev Loss = 0.9226, Train Accuracy = 0.6405, Dev Accuracy = 0.6367
+2026-04-29 20:27:42,274 - INFO - Epoch 8: Train Loss = 0.8613, Dev Loss = 0.8836, Train Accuracy = 0.6513, Dev Accuracy = 0.6559
+2026-04-29 20:30:29,013 - INFO - Epoch 9: Train Loss = 0.8461, Dev Loss = 0.8686, Train Accuracy = 0.6560, Dev Accuracy = 0.6562
+2026-04-29 20:33:16,893 - INFO - Epoch 10: Train Loss = 0.8302, Dev Loss = 0.8776, Train Accuracy = 0.6625, Dev Accuracy = 0.6557
+2026-04-29 20:36:06,048 - INFO - Epoch 11: Train Loss = 0.8245, Dev Loss = 0.8605, Train Accuracy = 0.6650, Dev Accuracy = 0.6614
+2026-04-29 20:39:09,475 - INFO - Epoch 12: Train Loss = 0.8140, Dev Loss = 0.8669, Train Accuracy = 0.6723, Dev Accuracy = 0.6645
+2026-04-29 20:41:57,092 - INFO - Epoch 13: Train Loss = 0.8062, Dev Loss = 0.8605, Train Accuracy = 0.6740, Dev Accuracy = 0.6639
+2026-04-29 20:44:45,080 - INFO - Epoch 14: Train Loss = 0.7960, Dev Loss = 0.8242, Train Accuracy = 0.6795, Dev Accuracy = 0.6771
+2026-04-29 20:47:43,756 - INFO - Epoch 15: Train Loss = 0.7890, Dev Loss = 0.8519, Train Accuracy = 0.6813, Dev Accuracy = 0.6821
+2026-04-29 20:50:35,545 - INFO - Epoch 16: Train Loss = 0.7821, Dev Loss = 0.8685, Train Accuracy = 0.6851, Dev Accuracy = 0.6726
+2026-04-29 20:53:19,389 - INFO - Epoch 17: Train Loss = 0.7770, Dev Loss = 0.8419, Train Accuracy = 0.6875, Dev Accuracy = 0.6797
+2026-04-29 20:56:04,106 - INFO - Epoch 18: Train Loss = 0.7712, Dev Loss = 0.8415, Train Accuracy = 0.6911, Dev Accuracy = 0.6772
+2026-04-29 20:58:51,222 - INFO - Epoch 19: Train Loss = 0.7656, Dev Loss = 0.8218, Train Accuracy = 0.6921, Dev Accuracy = 0.6829
+2026-04-29 21:01:35,600 - INFO - Epoch 20: Train Loss = 0.7604, Dev Loss = 0.8279, Train Accuracy = 0.6954, Dev Accuracy = 0.6808
+2026-04-29 21:04:20,755 - INFO - Epoch 21: Train Loss = 0.7553, Dev Loss = 0.7970, Train Accuracy = 0.6996, Dev Accuracy = 0.6962
+2026-04-29 21:07:03,274 - INFO - Epoch 22: Train Loss = 0.7526, Dev Loss = 0.8129, Train Accuracy = 0.7001, Dev Accuracy = 0.6934
+2026-04-29 21:09:46,455 - INFO - Epoch 23: Train Loss = 0.7470, Dev Loss = 0.8218, Train Accuracy = 0.7008, Dev Accuracy = 0.6878
+2026-04-29 21:12:27,798 - INFO - Epoch 24: Train Loss = 0.7438, Dev Loss = 0.8164, Train Accuracy = 0.7022, Dev Accuracy = 0.6921
+2026-04-29 21:15:07,093 - INFO - Epoch 25: Train Loss = 0.7405, Dev Loss = 0.8046, Train Accuracy = 0.7039, Dev Accuracy = 0.6932
+2026-04-29 21:18:00,171 - INFO - Epoch 26: Train Loss = 0.7349, Dev Loss = 0.8011, Train Accuracy = 0.7061, Dev Accuracy = 0.6970
+2026-04-29 21:20:40,507 - INFO - Epoch 27: Train Loss = 0.7324, Dev Loss = 0.8024, Train Accuracy = 0.7083, Dev Accuracy = 0.6991
+2026-04-29 21:23:18,903 - INFO - Epoch 28: Train Loss = 0.7261, Dev Loss = 0.7949, Train Accuracy = 0.7117, Dev Accuracy = 0.7016
+2026-04-29 21:26:05,181 - INFO - Epoch 29: Train Loss = 0.7210, Dev Loss = 0.8018, Train Accuracy = 0.7124, Dev Accuracy = 0.7022
+2026-04-29 21:28:51,110 - INFO - Epoch 30: Train Loss = 0.7196, Dev Loss = 0.7874, Train Accuracy = 0.7120, Dev Accuracy = 0.7053
+2026-04-29 21:31:36,496 - INFO - Epoch 31: Train Loss = 0.6882, Dev Loss = 0.7991, Train Accuracy = 0.7265, Dev Accuracy = 0.7017
+2026-04-29 21:34:28,486 - INFO - Epoch 32: Train Loss = 0.6753, Dev Loss = 0.7824, Train Accuracy = 0.7318, Dev Accuracy = 0.7072
+2026-04-29 21:37:12,014 - INFO - Epoch 33: Train Loss = 0.6666, Dev Loss = 0.7855, Train Accuracy = 0.7348, Dev Accuracy = 0.7122
+2026-04-29 21:39:56,844 - INFO - Epoch 34: Train Loss = 0.6624, Dev Loss = 0.7826, Train Accuracy = 0.7380, Dev Accuracy = 0.7105
+2026-04-29 21:42:48,632 - INFO - Epoch 35: Train Loss = 0.6587, Dev Loss = 0.7841, Train Accuracy = 0.7382, Dev Accuracy = 0.7093
+2026-04-29 21:45:41,104 - INFO - Epoch 36: Train Loss = 0.6550, Dev Loss = 0.7765, Train Accuracy = 0.7410, Dev Accuracy = 0.7121
+2026-04-29 21:48:38,682 - INFO - Epoch 37: Train Loss = 0.6532, Dev Loss = 0.7704, Train Accuracy = 0.7423, Dev Accuracy = 0.7134
+2026-04-29 21:51:30,542 - INFO - Epoch 38: Train Loss = 0.6448, Dev Loss = 0.7717, Train Accuracy = 0.7458, Dev Accuracy = 0.7136
+2026-04-29 21:54:22,291 - INFO - Epoch 39: Train Loss = 0.6460, Dev Loss = 0.7754, Train Accuracy = 0.7451, Dev Accuracy = 0.7137
+2026-04-29 21:57:07,720 - INFO - Epoch 40: Train Loss = 0.6425, Dev Loss = 0.7766, Train Accuracy = 0.7463, Dev Accuracy = 0.7163
+2026-04-29 22:00:00,150 - INFO - Epoch 41: Train Loss = 0.6420, Dev Loss = 0.7720, Train Accuracy = 0.7457, Dev Accuracy = 0.7188
+2026-04-29 22:02:43,839 - INFO - Epoch 42: Train Loss = 0.6375, Dev Loss = 0.7748, Train Accuracy = 0.7487, Dev Accuracy = 0.7154
+2026-04-29 22:05:27,287 - INFO - Epoch 43: Train Loss = 0.6361, Dev Loss = 0.7843, Train Accuracy = 0.7488, Dev Accuracy = 0.7192
+2026-04-29 22:20:52,415 - INFO - Epoch 1: Train Loss = 1.5065, Dev Loss = 1.2512, Train Accuracy = 0.3302, Dev Accuracy = 0.4232
+2026-04-29 22:23:41,671 - INFO - Epoch 2: Train Loss = 1.3006, Dev Loss = 1.2238, Train Accuracy = 0.4077, Dev Accuracy = 0.4501
+2026-04-29 22:26:27,838 - INFO - Epoch 3: Train Loss = 1.2125, Dev Loss = 1.1765, Train Accuracy = 0.4581, Dev Accuracy = 0.4889
+2026-04-29 22:29:14,511 - INFO - Epoch 4: Train Loss = 1.1590, Dev Loss = 1.1161, Train Accuracy = 0.4912, Dev Accuracy = 0.5207
+2026-04-29 22:32:01,059 - INFO - Epoch 5: Train Loss = 1.1166, Dev Loss = 1.0829, Train Accuracy = 0.5170, Dev Accuracy = 0.5457
+2026-04-29 22:34:46,419 - INFO - Epoch 6: Train Loss = 1.0894, Dev Loss = 1.0520, Train Accuracy = 0.5353, Dev Accuracy = 0.5622
+2026-04-29 22:37:35,828 - INFO - Epoch 7: Train Loss = 1.0647, Dev Loss = 1.0498, Train Accuracy = 0.5470, Dev Accuracy = 0.5675
+2026-04-29 22:40:23,251 - INFO - Epoch 8: Train Loss = 1.0410, Dev Loss = 1.0178, Train Accuracy = 0.5613, Dev Accuracy = 0.5864
+2026-04-29 22:43:12,324 - INFO - Epoch 9: Train Loss = 1.0224, Dev Loss = 1.0436, Train Accuracy = 0.5708, Dev Accuracy = 0.5693
+2026-04-29 22:46:03,182 - INFO - Epoch 10: Train Loss = 1.0069, Dev Loss = 1.0027, Train Accuracy = 0.5765, Dev Accuracy = 0.5900
+2026-04-29 22:51:49,990 - INFO - Epoch 1: Train Loss = 1.9035, Dev Loss = 1.7595, Train Accuracy = 0.2538, Dev Accuracy = 0.2618
+2026-04-29 22:54:42,017 - INFO - Epoch 2: Train Loss = 1.7387, Dev Loss = 1.4677, Train Accuracy = 0.2830, Dev Accuracy = 0.3496
+2026-04-29 22:57:33,192 - INFO - Epoch 3: Train Loss = 1.4487, Dev Loss = 1.2604, Train Accuracy = 0.3470, Dev Accuracy = 0.4263
+2026-04-29 23:00:23,198 - INFO - Epoch 4: Train Loss = 1.3139, Dev Loss = 1.2484, Train Accuracy = 0.3950, Dev Accuracy = 0.4407
+2026-04-29 23:03:06,770 - INFO - Epoch 5: Train Loss = 1.4130, Dev Loss = 1.3856, Train Accuracy = 0.2813, Dev Accuracy = 0.2508
+2026-04-29 23:05:49,441 - INFO - Epoch 6: Train Loss = 27.4420, Dev Loss = 2.3322, Train Accuracy = 0.2497, Dev Accuracy = 0.2500
+2026-04-29 23:08:30,402 - INFO - Epoch 7: Train Loss = 3914.7440, Dev Loss = 474.4919, Train Accuracy = 0.2507, Dev Accuracy = 0.2500
+2026-04-29 23:11:08,769 - INFO - Epoch 8: Train Loss = 487561.9186, Dev Loss = 8494.0145, Train Accuracy = 0.2493, Dev Accuracy = 0.2500
+2026-04-29 23:13:45,681 - INFO - Epoch 9: Train Loss = 29436934.8862, Dev Loss = 1304651.2926, Train Accuracy = 0.2472, Dev Accuracy = 0.2500
+2026-04-29 23:16:27,175 - INFO - Epoch 10: Train Loss = 3295342338.0792, Dev Loss = 1624365729.4147, Train Accuracy = 0.2495, Dev Accuracy = 0.2500
+2026-04-29 23:20:54,126 - INFO - Epoch 1: Train Loss = 1.7820, Dev Loss = 1.4682, Train Accuracy = 0.2774, Dev Accuracy = 0.3409
+2026-04-29 23:23:30,552 - INFO - Epoch 2: Train Loss = 1.5794, Dev Loss = 1.3431, Train Accuracy = 0.3126, Dev Accuracy = 0.3721
+2026-04-29 23:28:18,242 - INFO - Epoch 1: Train Loss = 1.5148, Dev Loss = 1.3540, Train Accuracy = 0.3296, Dev Accuracy = 0.4146
+2026-04-29 23:31:06,268 - INFO - Epoch 2: Train Loss = 1.3073, Dev Loss = 1.2204, Train Accuracy = 0.4047, Dev Accuracy = 0.4536
+2026-04-29 23:33:43,195 - INFO - Epoch 3: Train Loss = 1.2188, Dev Loss = 1.2006, Train Accuracy = 0.4572, Dev Accuracy = 0.4903
+2026-04-29 23:36:20,074 - INFO - Epoch 4: Train Loss = 1.1559, Dev Loss = 1.0858, Train Accuracy = 0.4953, Dev Accuracy = 0.5328
+2026-04-29 23:38:58,953 - INFO - Epoch 5: Train Loss = 1.1106, Dev Loss = 1.1984, Train Accuracy = 0.5222, Dev Accuracy = 0.5029
+2026-04-29 23:41:50,907 - INFO - Epoch 6: Train Loss = 1.0826, Dev Loss = 1.0485, Train Accuracy = 0.5380, Dev Accuracy = 0.5562
+2026-04-29 23:44:37,902 - INFO - Epoch 7: Train Loss = 1.0582, Dev Loss = 1.0224, Train Accuracy = 0.5508, Dev Accuracy = 0.5684
+2026-04-29 23:47:25,781 - INFO - Epoch 8: Train Loss = 1.0389, Dev Loss = 1.0171, Train Accuracy = 0.5623, Dev Accuracy = 0.5813
+2026-04-29 23:50:10,781 - INFO - Epoch 9: Train Loss = 1.0182, Dev Loss = 1.0167, Train Accuracy = 0.5724, Dev Accuracy = 0.5855
+2026-04-29 23:53:01,766 - INFO - Epoch 10: Train Loss = 1.0041, Dev Loss = 1.0003, Train Accuracy = 0.5807, Dev Accuracy = 0.5917
+2026-04-29 23:55:51,453 - INFO - Epoch 11: Train Loss = 0.9903, Dev Loss = 0.9752, Train Accuracy = 0.5863, Dev Accuracy = 0.5991
+2026-04-29 23:58:47,475 - INFO - Epoch 12: Train Loss = 0.9790, Dev Loss = 0.9837, Train Accuracy = 0.5912, Dev Accuracy = 0.5983
+2026-04-30 00:01:38,511 - INFO - Epoch 13: Train Loss = 0.9673, Dev Loss = 0.9880, Train Accuracy = 0.5977, Dev Accuracy = 0.6022
+2026-04-30 00:04:28,572 - INFO - Epoch 14: Train Loss = 0.9575, Dev Loss = 0.9813, Train Accuracy = 0.6029, Dev Accuracy = 0.6045
+2026-04-30 00:07:17,945 - INFO - Epoch 15: Train Loss = 0.9496, Dev Loss = 0.9808, Train Accuracy = 0.6062, Dev Accuracy = 0.6005
+2026-04-30 00:10:11,510 - INFO - Epoch 16: Train Loss = 0.9415, Dev Loss = 0.9500, Train Accuracy = 0.6116, Dev Accuracy = 0.6158
+2026-04-30 00:13:07,954 - INFO - Epoch 17: Train Loss = 0.9318, Dev Loss = 0.9409, Train Accuracy = 0.6146, Dev Accuracy = 0.6132
+2026-04-30 00:17:31,174 - INFO - Epoch 1: Train Loss = 1.3958, Dev Loss = 1.2107, Train Accuracy = 0.3806, Dev Accuracy = 0.4758
+2026-04-30 00:20:29,722 - INFO - Epoch 2: Train Loss = 1.1725, Dev Loss = 1.0919  , Train Accuracy = 0.4871, Dev Accuracy = 0.5345
+2026-04-30 00:23:36,279 - INFO - Epoch 3: Train Loss = 1.0805, Dev Loss = 1.0276, Train Accuracy = 0.5384, Dev Accuracy = 0.5739
+2026-04-30 00:26:43,080 - INFO - Epoch 4: Train Loss = 1.0276, Dev Loss = 0.9983, Train Accuracy = 0.5667, Dev Accuracy = 0.5936
+2026-04-30 00:29:47,974 - INFO - Epoch 5: Train Loss = 0.9865, Dev Loss = 0.9889, Train Accuracy = 0.5870, Dev Accuracy = 0.6009
+2026-04-30 08:29:02,943 - INFO - Epoch 1: Train Loss = 1.4201, Dev Loss = 1.3416, Train Accuracy = 0.3592, Dev Accuracy = 0.4068
+2026-04-30 08:33:23,497 - INFO - Epoch 1: Train Loss = 1.8042, Dev Loss = 1.4811, Train Accuracy = 0.2558, Dev Accuracy = 0.2917
+2026-04-30 08:36:09,909 - INFO - Epoch 2: Train Loss = 1.5756, Dev Loss = 1.3243, Train Accuracy = 0.2874, Dev Accuracy = 0.3741
+2026-04-30 08:38:52,413 - INFO - Epoch 3: Train Loss = 1.3685, Dev Loss = 1.1734, Train Accuracy = 0.3842, Dev Accuracy = 0.4963
+2026-04-30 08:41:39,175 - INFO - Epoch 4: Train Loss = 1.2110, Dev Loss = 1.1725, Train Accuracy = 0.4670, Dev Accuracy = 0.5059
+2026-04-30 08:44:26,107 - INFO - Epoch 5: Train Loss = 1.3871, Dev Loss = 1.3438, Train Accuracy = 0.3182, Dev Accuracy = 0.3407
+2026-04-30 08:47:10,335 - INFO - Epoch 6: Train Loss = 38.0756, Dev Loss = 2.7705, Train Accuracy = 0.2495, Dev Accuracy = 0.2500
+2026-04-30 08:52:15,858 - INFO - Epoch 1: Train Loss = 1.4284, Dev Loss = 1.1801, Train Accuracy = 0.3593, Dev Accuracy = 0.4758
+2026-04-30 08:54:59,705 - INFO - Epoch 2: Train Loss = 1.2333, Dev Loss = 1.1067, Train Accuracy = 0.4552, Dev Accuracy = 0.5166
+2026-04-30 08:57:42,294 - INFO - Epoch 3: Train Loss = 1.3740, Dev Loss = 1.3694, Train Accuracy = 0.3317, Dev Accuracy = 0.3182
+2026-04-30 09:00:28,802 - INFO - Epoch 4: Train Loss = 37.9686, Dev Loss = 1.4817, Train Accuracy = 0.2518, Dev Accuracy = 0.2500
+2026-04-30 09:03:16,197 - INFO - Epoch 5: Train Loss = 3235.6904, Dev Loss = 1096.3447, Train Accuracy = 0.2510, Dev Accuracy = 0.2500
+2026-04-30 09:06:00,727 - INFO - Epoch 6: Train Loss = 283260.1334, Dev Loss = 56462.5687, Train Accuracy = 0.2478, Dev Accuracy = 0.2500
+2026-04-30 09:08:40,041 - INFO - Epoch 7: Train Loss = 34479649.7277, Dev Loss = 548045.8893, Train Accuracy = 0.2507, Dev Accuracy = 0.2500
+2026-04-30 09:11:26,287 - INFO - Epoch 8: Train Loss = 2664600545.5723, Dev Loss = 49423914.0253, Train Accuracy = 0.2486, Dev Accuracy = 0.2500
+2026-04-30 09:14:13,224 - INFO - Epoch 9: Train Loss = 328817792421.9174, Dev Loss = 194305407989.2210, Train Accuracy = 0.2508, Dev Accuracy = 0.2500
+2026-04-30 09:17:02,372 - INFO - Epoch 10: Train Loss = 30598213097642.1797, Dev Loss = 37679273815779.4375, Train Accuracy = 0.2497, Dev Accuracy = 0.2500
+2026-04-30 09:19:54,855 - INFO - Epoch 11: Train Loss = 3320125599724376.0000, Dev Loss = 24008720359717.1875, Train Accuracy = 0.2502, Dev Accuracy = 0.2500
+2026-04-30 09:58:30,557 - INFO - Epoch 1: Train Loss = 1.4312, Dev Loss = 1.1723, Train Accuracy = 0.3551, Dev Accuracy = 0.4809
+2026-04-30 10:01:18,379 - INFO - Epoch 2: Train Loss = 1.1998, Dev Loss = 1.0917, Train Accuracy = 0.4729, Dev Accuracy = 0.5309
+2026-04-30 10:04:15,360 - INFO - Epoch 3: Train Loss = 1.1070, Dev Loss = 1.0624, Train Accuracy = 0.5251, Dev Accuracy = 0.5464
+2026-04-30 10:07:05,050 - INFO - Epoch 4: Train Loss = 1.0522, Dev Loss = 1.0352, Train Accuracy = 0.5558, Dev Accuracy = 0.5691
+2026-04-30 10:10:05,503 - INFO - Epoch 5: Train Loss = 1.0173, Dev Loss = 1.0357, Train Accuracy = 0.5742, Dev Accuracy = 0.5714
+2026-04-30 10:13:07,147 - INFO - Epoch 6: Train Loss = 0.9875, Dev Loss = 1.0138, Train Accuracy = 0.5890, Dev Accuracy = 0.6009
+2026-04-30 10:16:06,820 - INFO - Epoch 7: Train Loss = 0.9625, Dev Loss = 0.9849, Train Accuracy = 0.6030, Dev Accuracy = 0.6114
+2026-04-30 10:18:59,906 - INFO - Epoch 8: Train Loss = 0.9433, Dev Loss = 0.9827, Train Accuracy = 0.6130, Dev Accuracy = 0.6193
+2026-04-30 10:21:51,064 - INFO - Epoch 9: Train Loss = 0.9267, Dev Loss = 0.9719, Train Accuracy = 0.6189, Dev Accuracy = 0.6192
+2026-04-30 10:24:54,015 - INFO - Epoch 10: Train Loss = 0.9120, Dev Loss = 0.9707, Train Accuracy = 0.6257, Dev Accuracy = 0.6253
+2026-04-30 10:27:58,497 - INFO - Epoch 11: Train Loss = 0.8944, Dev Loss = 0.9171, Train Accuracy = 0.6347, Dev Accuracy = 0.6362
+2026-04-30 10:31:02,180 - INFO - Epoch 12: Train Loss = 0.8865, Dev Loss = 0.9130, Train Accuracy = 0.6388, Dev Accuracy = 0.6375
+2026-04-30 10:34:08,713 - INFO - Epoch 13: Train Loss = 0.8728, Dev Loss = 0.9033, Train Accuracy = 0.6450, Dev Accuracy = 0.6471
+2026-04-30 10:37:05,611 - INFO - Epoch 14: Train Loss = 0.8646, Dev Loss = 0.8961, Train Accuracy = 0.6485, Dev Accuracy = 0.6467
+2026-04-30 10:40:01,247 - INFO - Epoch 15: Train Loss = 0.8523, Dev Loss = 0.9228, Train Accuracy = 0.6533, Dev Accuracy = 0.6463
+2026-04-30 10:42:51,750 - INFO - Epoch 16: Train Loss = 0.8439, Dev Loss = 0.9051, Train Accuracy = 0.6579, Dev Accuracy = 0.6534
+2026-04-30 10:45:44,214 - INFO - Epoch 17: Train Loss = 0.8339, Dev Loss = 0.8811, Train Accuracy = 0.6620, Dev Accuracy = 0.6566
+2026-04-30 10:48:32,968 - INFO - Epoch 18: Train Loss = 0.8232, Dev Loss = 0.8991, Train Accuracy = 0.6666, Dev Accuracy = 0.6511
+2026-04-30 10:51:24,639 - INFO - Epoch 19: Train Loss = 0.8173, Dev Loss = 0.8639, Train Accuracy = 0.6717, Dev Accuracy = 0.6701
+2026-04-30 10:54:11,226 - INFO - Epoch 20: Train Loss = 0.8084, Dev Loss = 0.8827, Train Accuracy = 0.6739, Dev Accuracy = 0.6597
+2026-04-30 10:57:03,713 - INFO - Epoch 21: Train Loss = 0.8054, Dev Loss = 0.8728, Train Accuracy = 0.6739, Dev Accuracy = 0.6687
+2026-04-30 11:00:00,123 - INFO - Epoch 22: Train Loss = 0.7952, Dev Loss = 0.8716, Train Accuracy = 0.6793, Dev Accuracy = 0.6643
+2026-04-30 11:02:57,793 - INFO - Epoch 23: Train Loss = 0.7897, Dev Loss = 0.8380, Train Accuracy = 0.6828, Dev Accuracy = 0.6739
+2026-04-30 11:06:01,529 - INFO - Epoch 24: Train Loss = 0.7849, Dev Loss = 0.8871, Train Accuracy = 0.6837, Dev Accuracy = 0.6700
+2026-04-30 11:09:02,224 - INFO - Epoch 25: Train Loss = 0.7779, Dev Loss = 0.8541, Train Accuracy = 0.6880, Dev Accuracy = 0.6772
+2026-04-30 11:12:05,802 - INFO - Epoch 26: Train Loss = 0.7711, Dev Loss = 0.8836, Train Accuracy = 0.6902, Dev Accuracy = 0.6721
+2026-04-30 11:15:06,455 - INFO - Epoch 27: Train Loss = 0.7658, Dev Loss = 0.8677, Train Accuracy = 0.6920, Dev Accuracy = 0.6720
+2026-04-30 11:18:10,956 - INFO - Epoch 28: Train Loss = 0.7614, Dev Loss = 0.8464, Train Accuracy = 0.6944, Dev Accuracy = 0.6838
+2026-04-30 11:21:14,937 - INFO - Epoch 29: Train Loss = 0.7571, Dev Loss = 0.8617, Train Accuracy = 0.6963, Dev Accuracy = 0.6805
+2026-04-30 11:24:05,814 - INFO - Epoch 30: Train Loss = 0.7513, Dev Loss = 0.9141, Train Accuracy = 0.6994, Dev Accuracy = 0.6730
+2026-04-30 11:27:10,652 - INFO - Epoch 31: Train Loss = 0.7466, Dev Loss = 0.8620, Train Accuracy = 0.7013, Dev Accuracy = 0.6764
+2026-04-30 11:30:06,105 - INFO - Epoch 32: Train Loss = 0.7401, Dev Loss = 0.8396, Train Accuracy = 0.7042, Dev Accuracy = 0.6812
+2026-04-30 11:32:58,480 - INFO - Epoch 33: Train Loss = 0.7337, Dev Loss = 0.8467, Train Accuracy = 0.7067, Dev Accuracy = 0.6839
+2026-04-30 11:35:55,010 - INFO - Epoch 34: Train Loss = 0.7339, Dev Loss = 0.8507, Train Accuracy = 0.7072, Dev Accuracy = 0.6953
+2026-04-30 11:38:44,676 - INFO - Epoch 35: Train Loss = 0.7284, Dev Loss = 0.8530, Train Accuracy = 0.7098, Dev Accuracy = 0.6943
+2026-04-30 11:41:46,272 - INFO - Epoch 36: Train Loss = 0.7015, Dev Loss = 0.8532, Train Accuracy = 0.7211, Dev Accuracy = 0.6930
+2026-04-30 11:44:39,843 - INFO - Epoch 37: Train Loss = 0.6933, Dev Loss = 0.8439, Train Accuracy = 0.7245, Dev Accuracy = 0.6936
+2026-04-30 11:47:30,913 - INFO - Epoch 38: Train Loss = 0.6941, Dev Loss = 0.8359, Train Accuracy = 0.7243, Dev Accuracy = 0.6968
+2026-04-30 11:50:22,871 - INFO - Epoch 39: Train Loss = 0.6890, Dev Loss = 0.8344, Train Accuracy = 0.7266, Dev Accuracy = 0.6946
+2026-04-30 11:53:15,052 - INFO - Epoch 40: Train Loss = 0.6889, Dev Loss = 0.8407, Train Accuracy = 0.7258, Dev Accuracy = 0.6971
+2026-04-30 11:56:06,587 - INFO - Epoch 41: Train Loss = 0.6825, Dev Loss = 0.8314, Train Accuracy = 0.7297, Dev Accuracy = 0.6991
+2026-04-30 11:59:01,226 - INFO - Epoch 42: Train Loss = 0.6803, Dev Loss = 0.8455, Train Accuracy = 0.7294, Dev Accuracy = 0.7011
+2026-04-30 12:01:59,138 - INFO - Epoch 43: Train Loss = 0.6793, Dev Loss = 0.8271, Train Accuracy = 0.7314, Dev Accuracy = 0.7034
+2026-04-30 12:04:51,180 - INFO - Epoch 44: Train Loss = 0.6796, Dev Loss = 0.8317, Train Accuracy = 0.7323, Dev Accuracy = 0.7007
+2026-04-30 12:07:40,812 - INFO - Epoch 45: Train Loss = 0.6802, Dev Loss = 0.8302, Train Accuracy = 0.7306, Dev Accuracy = 0.6980
+2026-04-30 12:10:34,776 - INFO - Epoch 46: Train Loss = 0.6777, Dev Loss = 0.8317, Train Accuracy = 0.7313, Dev Accuracy = 0.7008
+2026-04-30 12:13:32,825 - INFO - Epoch 47: Train Loss = 0.6760, Dev Loss = 0.8343, Train Accuracy = 0.7333, Dev Accuracy = 0.7016
+2026-04-30 12:16:28,521 - INFO - Epoch 48: Train Loss = 0.6738, Dev Loss = 0.8399, Train Accuracy = 0.7329, Dev Accuracy = 0.7008
+2026-04-30 12:19:17,324 - INFO - Epoch 49: Train Loss = 0.6732, Dev Loss = 0.8319, Train Accuracy = 0.7332, Dev Accuracy = 0.6999
+2026-04-30 12:21:57,447 - INFO - Epoch 50: Train Loss = 0.6721, Dev Loss = 0.8331, Train Accuracy = 0.7345, Dev Accuracy = 0.7026
+2026-04-30 12:24:41,646 - INFO - Epoch 51: Train Loss = 0.6681, Dev Loss = 0.8304, Train Accuracy = 0.7361, Dev Accuracy = 0.7025
+2026-04-30 12:27:29,827 - INFO - Epoch 52: Train Loss = 0.6679, Dev Loss = 0.8396, Train Accuracy = 0.7345, Dev Accuracy = 0.6986
+2026-04-30 12:30:11,809 - INFO - Epoch 53: Train Loss = 0.6690, Dev Loss = 0.8340, Train Accuracy = 0.7350, Dev Accuracy = 0.7008
+2026-04-30 12:33:03,968 - INFO - Epoch 54: Train Loss = 0.6666, Dev Loss = 0.8320, Train Accuracy = 0.7367, Dev Accuracy = 0.7001
+2026-04-30 12:35:47,868 - INFO - Epoch 55: Train Loss = 0.6677, Dev Loss = 0.8385, Train Accuracy = 0.7355, Dev Accuracy = 0.6995
+2026-04-30 12:38:31,421 - INFO - Epoch 56: Train Loss = 0.6673, Dev Loss = 0.8234, Train Accuracy = 0.7354, Dev Accuracy = 0.7092
+2026-04-30 12:41:10,443 - INFO - Epoch 57: Train Loss = 0.6688, Dev Loss = 0.8324, Train Accuracy = 0.7355, Dev Accuracy = 0.7014
+2026-04-30 12:43:52,222 - INFO - Epoch 58: Train Loss = 0.6649, Dev Loss = 0.8196, Train Accuracy = 0.7368, Dev Accuracy = 0.7064
+2026-04-30 12:46:37,307 - INFO - Epoch 59: Train Loss = 0.6639, Dev Loss = 0.8323, Train Accuracy = 0.7387, Dev Accuracy = 0.7067
+2026-04-30 12:49:16,429 - INFO - Epoch 60: Train Loss = 0.6610, Dev Loss = 0.8326, Train Accuracy = 0.7383, Dev Accuracy = 0.7050
+2026-04-30 12:51:56,905 - INFO - Epoch 61: Train Loss = 0.6622, Dev Loss = 0.8307, Train Accuracy = 0.7387, Dev Accuracy = 0.7055
+2026-04-30 12:54:42,746 - INFO - Epoch 62: Train Loss = 0.6607, Dev Loss = 0.8474, Train Accuracy = 0.7388, Dev Accuracy = 0.7001
+2026-04-30 12:57:32,024 - INFO - Epoch 63: Train Loss = 0.6613, Dev Loss = 0.8419, Train Accuracy = 0.7390, Dev Accuracy = 0.7039
+2026-04-30 13:00:14,144 - INFO - Epoch 64: Train Loss = 0.6572, Dev Loss = 0.8346, Train Accuracy = 0.7421, Dev Accuracy = 0.7024
+2026-04-30 13:03:02,541 - INFO - Epoch 65: Train Loss = 0.6569, Dev Loss = 0.8318, Train Accuracy = 0.7412, Dev Accuracy = 0.7068
+2026-04-30 13:05:59,160 - INFO - Epoch 66: Train Loss = 0.6586, Dev Loss = 0.8399, Train Accuracy = 0.7407, Dev Accuracy = 0.7053
+2026-04-30 13:08:52,885 - INFO - Epoch 67: Train Loss = 0.6572, Dev Loss = 0.8435, Train Accuracy = 0.7395, Dev Accuracy = 0.7066
+2026-04-30 14:03:03,687 - INFO - Epoch 1: Train Loss = 1.3902, Dev Loss = 1.1619, Train Accuracy = 0.3829, Dev Accuracy = 0.4964
+2026-04-30 14:07:46,451 - INFO - Epoch 2: Train Loss = 1.1269, Dev Loss = 1.0233, Train Accuracy = 0.5147, Dev Accuracy = 0.5747
+2026-04-30 14:12:17,989 - INFO - Epoch 3: Train Loss = 1.0352, Dev Loss = 1.0446, Train Accuracy = 0.5638, Dev Accuracy = 0.5834
+2026-04-30 14:16:53,059 - INFO - Epoch 4: Train Loss = 0.9841, Dev Loss = 0.9680, Train Accuracy = 0.5901, Dev Accuracy = 0.6038
+2026-04-30 14:21:26,891 - INFO - Epoch 5: Train Loss = 0.9438, Dev Loss = 0.9641, Train Accuracy = 0.6087, Dev Accuracy = 0.6163
+2026-04-30 14:25:57,441 - INFO - Epoch 6: Train Loss = 0.9134, Dev Loss = 0.9382, Train Accuracy = 0.6241, Dev Accuracy = 0.6272
+2026-04-30 14:30:24,089 - INFO - Epoch 7: Train Loss = 0.8921, Dev Loss = 0.9584, Train Accuracy = 0.6345, Dev Accuracy = 0.6312
+2026-04-30 14:35:00,461 - INFO - Epoch 8: Train Loss = 0.8728, Dev Loss = 0.9433, Train Accuracy = 0.6423, Dev Accuracy = 0.6420
+2026-04-30 14:39:42,138 - INFO - Epoch 9: Train Loss = 0.8595, Dev Loss = 0.8985, Train Accuracy = 0.6492, Dev Accuracy = 0.6553
+2026-04-30 14:44:21,993 - INFO - Epoch 10: Train Loss = 0.8463, Dev Loss = 0.8806, Train Accuracy = 0.6559, Dev Accuracy = 0.6575
+2026-04-30 14:49:04,976 - INFO - Epoch 11: Train Loss = 0.8330, Dev Loss = 0.8825, Train Accuracy = 0.6616, Dev Accuracy = 0.6607
+2026-04-30 14:53:31,589 - INFO - Epoch 12: Train Loss = 0.8199, Dev Loss = 0.8914, Train Accuracy = 0.6678, Dev Accuracy = 0.6611
+2026-04-30 14:58:01,281 - INFO - Epoch 13: Train Loss = 0.8057, Dev Loss = 0.9084, Train Accuracy = 0.6747, Dev Accuracy = 0.6621
+2026-04-30 15:02:41,455 - INFO - Epoch 14: Train Loss = 0.7970, Dev Loss = 0.8692, Train Accuracy = 0.6785, Dev Accuracy = 0.6658
+2026-04-30 15:07:11,193 - INFO - Epoch 15: Train Loss = 0.7874, Dev Loss = 0.8859, Train Accuracy = 0.6830, Dev Accuracy = 0.6658
+2026-04-30 15:11:49,540 - INFO - Epoch 16: Train Loss = 0.7827, Dev Loss = 0.8614, Train Accuracy = 0.6854, Dev Accuracy = 0.6667
+2026-04-30 15:16:26,671 - INFO - Epoch 17: Train Loss = 0.7689, Dev Loss = 0.8547, Train Accuracy = 0.6910, Dev Accuracy = 0.6799
+2026-04-30 15:21:01,514 - INFO - Epoch 18: Train Loss = 0.7630, Dev Loss = 0.9020, Train Accuracy = 0.6943, Dev Accuracy = 0.6662
+2026-04-30 15:25:31,551 - INFO - Epoch 19: Train Loss = 0.7569, Dev Loss = 0.8686, Train Accuracy = 0.6966, Dev Accuracy = 0.6793
+2026-04-30 15:30:09,043 - INFO - Epoch 20: Train Loss = 0.7463, Dev Loss = 0.8362, Train Accuracy = 0.7019, Dev Accuracy = 0.6897
+2026-04-30 15:34:39,056 - INFO - Epoch 21: Train Loss = 0.7404, Dev Loss = 0.8603, Train Accuracy = 0.7050, Dev Accuracy = 0.6842
+2026-04-30 15:39:13,807 - INFO - Epoch 22: Train Loss = 0.7320, Dev Loss = 0.8466, Train Accuracy = 0.7088, Dev Accuracy = 0.6900
+2026-04-30 15:43:45,487 - INFO - Epoch 23: Train Loss = 0.7269, Dev Loss = 0.8437, Train Accuracy = 0.7104, Dev Accuracy = 0.6868
+2026-04-30 15:48:17,404 - INFO - Epoch 24: Train Loss = 0.7177, Dev Loss = 0.8653, Train Accuracy = 0.7146, Dev Accuracy = 0.6918
+2026-04-30 15:52:46,766 - INFO - Epoch 25: Train Loss = 0.7120, Dev Loss = 0.8418, Train Accuracy = 0.7159, Dev Accuracy = 0.6972
+2026-04-30 15:57:23,815 - INFO - Epoch 26: Train Loss = 0.7061, Dev Loss = 0.8458, Train Accuracy = 0.7192, Dev Accuracy = 0.6921
+2026-04-30 16:01:57,992 - INFO - Epoch 27: Train Loss = 0.7015, Dev Loss = 0.8451, Train Accuracy = 0.7220, Dev Accuracy = 0.6934
+2026-04-30 16:06:41,905 - INFO - Epoch 28: Train Loss = 0.6946, Dev Loss = 0.8261, Train Accuracy = 0.7246, Dev Accuracy = 0.7037
+2026-04-30 16:11:17,588 - INFO - Epoch 29: Train Loss = 0.6898, Dev Loss = 0.8251, Train Accuracy = 0.7268, Dev Accuracy = 0.7005
+2026-04-30 16:15:55,030 - INFO - Epoch 30: Train Loss = 0.6782, Dev Loss = 0.8153, Train Accuracy = 0.7308, Dev Accuracy = 0.7125
+2026-04-30 16:20:30,705 - INFO - Epoch 31: Train Loss = 0.6720, Dev Loss = 0.8141, Train Accuracy = 0.7350, Dev Accuracy = 0.7139
+2026-04-30 16:25:11,652 - INFO - Epoch 32: Train Loss = 0.6683, Dev Loss = 0.8258, Train Accuracy = 0.7356, Dev Accuracy = 0.7137
+2026-04-30 16:29:52,357 - INFO - Epoch 33: Train Loss = 0.6600, Dev Loss = 0.8083, Train Accuracy = 0.7402, Dev Accuracy = 0.7174
+2026-04-30 16:34:20,229 - INFO - Epoch 34: Train Loss = 0.6536, Dev Loss = 0.8360, Train Accuracy = 0.7420, Dev Accuracy = 0.7107
+2026-04-30 16:38:49,565 - INFO - Epoch 35: Train Loss = 0.6490, Dev Loss = 0.8359, Train Accuracy = 0.7456, Dev Accuracy = 0.7207
+2026-04-30 16:43:26,421 - INFO - Epoch 36: Train Loss = 0.6164, Dev Loss = 0.7945, Train Accuracy = 0.7586, Dev Accuracy = 0.7236
+2026-04-30 16:48:01,937 - INFO - Epoch 37: Train Loss = 0.6006, Dev Loss = 0.8220, Train Accuracy = 0.7648, Dev Accuracy = 0.7199
+2026-04-30 16:52:35,535 - INFO - Epoch 38: Train Loss = 0.5933, Dev Loss = 0.7966, Train Accuracy = 0.7685, Dev Accuracy = 0.7224
+2026-04-30 16:57:13,024 - INFO - Epoch 39: Train Loss = 0.5867, Dev Loss = 0.7970, Train Accuracy = 0.7716, Dev Accuracy = 0.7243
+2026-04-30 17:01:39,351 - INFO - Epoch 40: Train Loss = 0.5829, Dev Loss = 0.7896, Train Accuracy = 0.7723, Dev Accuracy = 0.7328
+2026-04-30 17:06:08,560 - INFO - Epoch 41: Train Loss = 0.5777, Dev Loss = 0.7874, Train Accuracy = 0.7747, Dev Accuracy = 0.7325
+2026-04-30 17:11:00,599 - INFO - Epoch 42: Train Loss = 0.5741, Dev Loss = 0.7828, Train Accuracy = 0.7770, Dev Accuracy = 0.7305
+2026-04-30 17:15:46,499 - INFO - Epoch 43: Train Loss = 0.5699, Dev Loss = 0.7975, Train Accuracy = 0.7785, Dev Accuracy = 0.7303
+2026-04-30 17:20:18,307 - INFO - Epoch 44: Train Loss = 0.5718, Dev Loss = 0.8001, Train Accuracy = 0.7780, Dev Accuracy = 0.7292
+2026-04-30 17:24:48,091 - INFO - Epoch 45: Train Loss = 0.5690, Dev Loss = 0.7914, Train Accuracy = 0.7791, Dev Accuracy = 0.7261
+2026-04-30 17:29:11,386 - INFO - Epoch 46: Train Loss = 0.5653, Dev Loss = 0.7971, Train Accuracy = 0.7794, Dev Accuracy = 0.7314
+2026-04-30 17:33:40,185 - INFO - Epoch 47: Train Loss = 0.5605, Dev Loss = 0.7916, Train Accuracy = 0.7832, Dev Accuracy = 0.7389
+2026-04-30 17:38:07,760 - INFO - Epoch 48: Train Loss = 0.5599, Dev Loss = 0.7767, Train Accuracy = 0.7832, Dev Accuracy = 0.7351
+2026-04-30 17:42:43,968 - INFO - Epoch 49: Train Loss = 0.5564, Dev Loss = 0.7766, Train Accuracy = 0.7849, Dev Accuracy = 0.7363
+2026-04-30 17:47:05,589 - INFO - Epoch 50: Train Loss = 0.5568, Dev Loss = 0.7830, Train Accuracy = 0.7852, Dev Accuracy = 0.7355
+2026-04-30 17:51:43,641 - INFO - Epoch 51: Train Loss = 0.5536, Dev Loss = 0.7805, Train Accuracy = 0.7853, Dev Accuracy = 0.7378
+2026-04-30 17:56:08,345 - INFO - Epoch 52: Train Loss = 0.5546, Dev Loss = 0.7964, Train Accuracy = 0.7853, Dev Accuracy = 0.7328
+2026-04-30 18:00:32,427 - INFO - Epoch 53: Train Loss = 0.5512, Dev Loss = 0.7916, Train Accuracy = 0.7858, Dev Accuracy = 0.7395
+2026-04-30 18:04:55,330 - INFO - Epoch 54: Train Loss = 0.5486, Dev Loss = 0.7868, Train Accuracy = 0.7873, Dev Accuracy = 0.7351
+2026-04-30 18:09:18,321 - INFO - Epoch 55: Train Loss = 0.5449, Dev Loss = 0.7901, Train Accuracy = 0.7885, Dev Accuracy = 0.7358
+2026-04-30 18:13:43,627 - INFO - Epoch 56: Train Loss = 0.5468, Dev Loss = 0.7632, Train Accuracy = 0.7883, Dev Accuracy = 0.7474
+2026-04-30 18:18:09,823 - INFO - Epoch 57: Train Loss = 0.5461, Dev Loss = 0.7824, Train Accuracy = 0.7894, Dev Accuracy = 0.7371
+2026-04-30 18:22:31,243 - INFO - Epoch 58: Train Loss = 0.5440, Dev Loss = 0.7934, Train Accuracy = 0.7905, Dev Accuracy = 0.7362
+2026-04-30 18:26:53,709 - INFO - Epoch 59: Train Loss = 0.5388, Dev Loss = 0.7776, Train Accuracy = 0.7921, Dev Accuracy = 0.7400
+2026-04-30 18:31:17,771 - INFO - Epoch 60: Train Loss = 0.5396, Dev Loss = 0.7933, Train Accuracy = 0.7920, Dev Accuracy = 0.7407
+2026-04-30 18:35:40,104 - INFO - Epoch 61: Train Loss = 0.5363, Dev Loss = 0.7812, Train Accuracy = 0.7933, Dev Accuracy = 0.7451
+2026-04-30 18:40:00,214 - INFO - Epoch 62: Train Loss = 0.5398, Dev Loss = 0.7760, Train Accuracy = 0.7916, Dev Accuracy = 0.7437
+2026-04-30 18:44:22,265 - INFO - Epoch 63: Train Loss = 0.5349, Dev Loss = 0.8079, Train Accuracy = 0.7944, Dev Accuracy = 0.7328
+2026-04-30 18:48:43,570 - INFO - Epoch 64: Train Loss = 0.5341, Dev Loss = 0.8040, Train Accuracy = 0.7939, Dev Accuracy = 0.7391
+2026-04-30 18:53:10,669 - INFO - Epoch 65: Train Loss = 0.5298, Dev Loss = 0.7946, Train Accuracy = 0.7961, Dev Accuracy = 0.7400
+2026-04-30 19:14:46,919 - INFO - Epoch 1: Train Loss = 1.3125, Dev Loss = 1.2784, Train Accuracy = 0.3656, Dev Accuracy = 0.4504
+2026-04-30 19:19:33,846 - INFO - Epoch 2: Train Loss = 1.1569, Dev Loss = 1.2608, Train Accuracy = 0.4900, Dev Accuracy = 0.5183
+2026-04-30 19:24:05,432 - INFO - Epoch 3: Train Loss = 1.0738, Dev Loss = 1.1300, Train Accuracy = 0.5393, Dev Accuracy = 0.5520
+2026-04-30 19:28:42,104 - INFO - Epoch 4: Train Loss = 1.0283, Dev Loss = 1.1080, Train Accuracy = 0.5652, Dev Accuracy = 0.5682
+2026-04-30 19:33:17,477 - INFO - Epoch 5: Train Loss = 0.9962, Dev Loss = 1.0871, Train Accuracy = 0.5814, Dev Accuracy = 0.5728
+2026-04-30 19:37:48,273 - INFO - Epoch 6: Train Loss = 0.9709, Dev Loss = 1.0255, Train Accuracy = 0.5944, Dev Accuracy = 0.5954
+2026-04-30 19:42:32,154 - INFO - Epoch 7: Train Loss = 0.9501, Dev Loss = 1.0126, Train Accuracy = 0.6046, Dev Accuracy = 0.6041
+2026-04-30 19:47:10,844 - INFO - Epoch 8: Train Loss = 0.9287, Dev Loss = 1.0423, Train Accuracy = 0.6146, Dev Accuracy = 0.6055
+2026-04-30 19:51:45,381 - INFO - Epoch 9: Train Loss = 0.9152, Dev Loss = 1.0013, Train Accuracy = 0.6217, Dev Accuracy = 0.6130
+2026-04-30 19:56:37,344 - INFO - Epoch 10: Train Loss = 0.8969, Dev Loss = 0.9854, Train Accuracy = 0.6308, Dev Accuracy = 0.6199
+2026-04-30 20:01:17,200 - INFO - Epoch 11: Train Loss = 0.8859, Dev Loss = 0.9721, Train Accuracy = 0.6354, Dev Accuracy = 0.6276
+2026-04-30 21:05:27,313 - INFO - Epoch 1: Train Loss = 1.4098, Dev Loss = 1.3647, Train Accuracy = 0.2624, Dev Accuracy = 0.3242
+2026-04-30 21:10:00,612 - INFO - Epoch 2: Train Loss = 1.3408, Dev Loss = 1.3452, Train Accuracy = 0.3440, Dev Accuracy = 0.3999
+2026-04-30 21:14:36,160 - INFO - Epoch 3: Train Loss = 1.2150, Dev Loss = 1.1414, Train Accuracy = 0.4493, Dev Accuracy = 0.5126
+2026-04-30 21:19:11,500 - INFO - Epoch 4: Train Loss = 1.3892, Dev Loss = 1.3864, Train Accuracy = 0.2508, Dev Accuracy = 0.2500
+2026-04-30 21:36:37,218 - INFO - Epoch 1: Train Loss = 1.3134, Dev Loss = 1.2447, Train Accuracy = 0.3422, Dev Accuracy = 0.4458, Epoch 1 get 350.3310070037842 to train
+2026-04-30 21:42:38,172 - INFO - Epoch 2: Train Loss = 1.1385, Dev Loss = 1.1078, Train Accuracy = 0.4904, Dev Accuracy = 0.5287, Epoch 2 get 350.56942558288574 to train
+2026-04-30 21:59:14,046 - INFO - Epoch 1: Train Loss = 1.2682, Dev Loss = 1.1482, Train Accuracy = 0.3894, Dev Accuracy = 0.4963, Epoch 1 get 5.88p to train
+2026-04-30 22:05:17,682 - INFO - Epoch 2: Train Loss = 1.0937, Dev Loss = 1.0615, Train Accuracy = 0.5221, Dev Accuracy = 0.5518, Epoch 2 get 5.89p to train
+2026-04-30 22:11:21,698 - INFO - Epoch 3: Train Loss = 1.0171, Dev Loss = 1.0215, Train Accuracy = 0.5700, Dev Accuracy = 0.5767, Epoch 3 get 5.90p to train
+2026-04-30 22:17:25,673 - INFO - Epoch 4: Train Loss = 0.9667, Dev Loss = 0.9858, Train Accuracy = 0.5945, Dev Accuracy = 0.5933, Epoch 4 get 5.89p to train
+2026-04-30 22:23:29,841 - INFO - Epoch 5: Train Loss = 0.9273, Dev Loss = 0.9427, Train Accuracy = 0.6133, Dev Accuracy = 0.6239, Epoch 5 get 5.91p to train
+2026-04-30 22:29:28,702 - INFO - Epoch 6: Train Loss = 0.8914, Dev Loss = 0.9596, Train Accuracy = 0.6333, Dev Accuracy = 0.6203, Epoch 6 get 5.87p to train
+2026-04-30 22:35:31,703 - INFO - Epoch 7: Train Loss = 0.8592, Dev Loss = 0.8872, Train Accuracy = 0.6488, Dev Accuracy = 0.6432, Epoch 7 get 5.88p to train
+2026-04-30 22:41:33,010 - INFO - Epoch 8: Train Loss = 0.8242, Dev Loss = 0.9351, Train Accuracy = 0.6642, Dev Accuracy = 0.6416, Epoch 8 get 5.91p to train
+2026-04-30 22:47:35,963 - INFO - Epoch 9: Train Loss = 0.7990, Dev Loss = 0.8862, Train Accuracy = 0.6762, Dev Accuracy = 0.6578, Epoch 9 get 5.88p to train
+2026-04-30 22:53:48,034 - INFO - Epoch 10: Train Loss = 0.7717, Dev Loss = 0.8897, Train Accuracy = 0.6893, Dev Accuracy = 0.6633, Epoch 10 get 6.03p to train
+2026-04-30 22:59:54,507 - INFO - Epoch 11: Train Loss = 0.7496, Dev Loss = 0.8695, Train Accuracy = 0.7002, Dev Accuracy = 0.6675, Epoch 11 get 5.94p to train
+2026-04-30 23:06:12,091 - INFO - Epoch 12: Train Loss = 0.7275, Dev Loss = 0.8546, Train Accuracy = 0.7094, Dev Accuracy = 0.6751, Epoch 12 get 6.12p to train
+2026-04-30 23:12:19,972 - INFO - Epoch 13: Train Loss = 0.7033, Dev Loss = 0.8415, Train Accuracy = 0.7202, Dev Accuracy = 0.6887, Epoch 13 get 5.96p to train
+2026-04-30 23:18:33,129 - INFO - Epoch 14: Train Loss = 0.6836, Dev Loss = 0.8747, Train Accuracy = 0.7286, Dev Accuracy = 0.6884, Epoch 14 get 6.10p to train
+2026-04-30 23:24:31,458 - INFO - Epoch 15: Train Loss = 0.6619, Dev Loss = 0.8414, Train Accuracy = 0.7405, Dev Accuracy = 0.6908, Epoch 15 get 5.82p to train
+2026-04-30 23:30:44,067 - INFO - Epoch 16: Train Loss = 0.6395, Dev Loss = 0.8298, Train Accuracy = 0.7492, Dev Accuracy = 0.7041, Epoch 16 get 6.04p to train
+2026-04-30 23:36:43,536 - INFO - Epoch 17: Train Loss = 0.6219, Dev Loss = 0.8002, Train Accuracy = 0.7570, Dev Accuracy = 0.7129, Epoch 17 get 5.82p to train
+2026-04-30 23:42:42,995 - INFO - Epoch 18: Train Loss = 0.6043, Dev Loss = 0.8017, Train Accuracy = 0.7645, Dev Accuracy = 0.7126, Epoch 18 get 5.82p to train
+2026-04-30 23:48:36,362 - INFO - Epoch 19: Train Loss = 0.5833, Dev Loss = 0.8287, Train Accuracy = 0.7748, Dev Accuracy = 0.7193, Epoch 19 get 5.77p to train
+2026-04-30 23:54:29,173 - INFO - Epoch 20: Train Loss = 0.5681, Dev Loss = 0.7938, Train Accuracy = 0.7804, Dev Accuracy = 0.7196, Epoch 20 get 5.71p to train
+2026-05-01 00:00:18,655 - INFO - Epoch 21: Train Loss = 0.5508, Dev Loss = 0.8170, Train Accuracy = 0.7890, Dev Accuracy = 0.7224, Epoch 21 get 5.71p to train
+2026-05-01 00:06:19,198 - INFO - Epoch 22: Train Loss = 0.5389, Dev Loss = 0.7766, Train Accuracy = 0.7942, Dev Accuracy = 0.7314, Epoch 22 get 5.83p to train
+2026-05-01 00:12:13,619 - INFO - Epoch 23: Train Loss = 0.5225, Dev Loss = 0.8062, Train Accuracy = 0.8002, Dev Accuracy = 0.7308, Epoch 23 get 5.79p to train
+2026-05-01 00:18:06,178 - INFO - Epoch 24: Train Loss = 0.5062, Dev Loss = 0.7848, Train Accuracy = 0.8086, Dev Accuracy = 0.7312, Epoch 24 get 5.76p to train
+2026-05-01 00:24:07,915 - INFO - Epoch 25: Train Loss = 0.4934, Dev Loss = 0.7864, Train Accuracy = 0.8133, Dev Accuracy = 0.7420, Epoch 25 get 5.91p to train
+2026-05-01 00:30:11,426 - INFO - Epoch 26: Train Loss = 0.4804, Dev Loss = 0.7600, Train Accuracy = 0.8198, Dev Accuracy = 0.7433, Epoch 26 get 5.88p to train
+2026-05-01 00:36:11,573 - INFO - Epoch 27: Train Loss = 0.4674, Dev Loss = 0.8531, Train Accuracy = 0.8254, Dev Accuracy = 0.7400, Epoch 27 get 5.88p to train
+2026-05-01 00:42:08,802 - INFO - Epoch 28: Train Loss = 0.4612, Dev Loss = 0.8101, Train Accuracy = 0.8274, Dev Accuracy = 0.7466, Epoch 28 get 5.84p to train
+2026-05-01 00:48:13,007 - INFO - Epoch 29: Train Loss = 0.4474, Dev Loss = 0.7377, Train Accuracy = 0.8326, Dev Accuracy = 0.7500, Epoch 29 get 5.91p to train
+2026-05-01 00:54:08,393 - INFO - Epoch 30: Train Loss = 0.4373, Dev Loss = 0.8055, Train Accuracy = 0.8378, Dev Accuracy = 0.7425, Epoch 30 get 5.81p to train
+2026-05-01 01:00:03,502 - INFO - Epoch 31: Train Loss = 0.3832, Dev Loss = 0.8079, Train Accuracy = 0.8601, Dev Accuracy = 0.7605, Epoch 31 get 5.80p to train
+2026-05-01 01:05:58,719 - INFO - Epoch 32: Train Loss = 0.3647, Dev Loss = 0.8186, Train Accuracy = 0.8683, Dev Accuracy = 0.7593, Epoch 32 get 5.81p to train
+2026-05-01 01:12:01,111 - INFO - Epoch 33: Train Loss = 0.3529, Dev Loss = 0.8003, Train Accuracy = 0.8730, Dev Accuracy = 0.7636, Epoch 33 get 5.93p to train
+2026-05-01 01:18:02,602 - INFO - Epoch 34: Train Loss = 0.3478, Dev Loss = 0.7982, Train Accuracy = 0.8745, Dev Accuracy = 0.7654, Epoch 34 get 5.91p to train
+2026-05-01 01:24:14,213 - INFO - Epoch 35: Train Loss = 0.3401, Dev Loss = 0.8066, Train Accuracy = 0.8774, Dev Accuracy = 0.7621, Epoch 35 get 6.07p to train
+2026-05-01 01:30:14,779 - INFO - Epoch 36: Train Loss = 0.3358, Dev Loss = 0.8107, Train Accuracy = 0.8804, Dev Accuracy = 0.7651, Epoch 36 get 5.89p to train
+2026-05-01 01:36:14,849 - INFO - Epoch 37: Train Loss = 0.3325, Dev Loss = 0.8100, Train Accuracy = 0.8801, Dev Accuracy = 0.7626, Epoch 37 get 5.88p to train
+2026-05-01 01:42:13,577 - INFO - Epoch 38: Train Loss = 0.3332, Dev Loss = 0.7878, Train Accuracy = 0.8803, Dev Accuracy = 0.7663, Epoch 38 get 5.86p to train
+2026-05-01 09:15:32,335 - INFO - Epoch 1: Train Loss = 1.3933, Dev Loss = 1.3863, Train Accuracy = 0.2497, Dev Accuracy = 0.2500, Epoch 1 get 5.13p to train
+2026-05-01 09:20:43,161 - INFO - Epoch 2: Train Loss = 1.3873, Dev Loss = 1.3863, Train Accuracy = 0.2487, Dev Accuracy = 0.2500, Epoch 2 get 5.08p to train
+2026-05-01 09:27:12,223 - INFO - Epoch 1: Train Loss = 1.5843, Dev Loss = 1.3846, Train Accuracy = 0.2541, Dev Accuracy = 0.2720, Epoch 1 get 5.20p to train
+2026-05-01 09:32:22,941 - INFO - Epoch 2: Train Loss = 1.3880, Dev Loss = 1.3816, Train Accuracy = 0.2581, Dev Accuracy = 0.2996, Epoch 2 get 5.07p to train
+2026-05-01 09:37:32,812 - INFO - Epoch 3: Train Loss = 1.3870, Dev Loss = 1.3863, Train Accuracy = 0.2499, Dev Accuracy = 0.2500, Epoch 3 get 5.06p to train
+2026-05-01 09:42:45,261 - INFO - Epoch 4: Train Loss = 1.4466, Dev Loss = 1.3864, Train Accuracy = 0.2481, Dev Accuracy = 0.2500, Epoch 4 get 5.12p to train
+2026-05-01 09:48:03,363 - INFO - Epoch 5: Train Loss = 1.3870, Dev Loss = 1.3867, Train Accuracy = 0.2507, Dev Accuracy = 0.2500, Epoch 5 get 5.19p to train
+2026-05-01 09:53:21,584 - INFO - Epoch 6: Train Loss = 1.3939, Dev Loss = 1.3879, Train Accuracy = 0.2506, Dev Accuracy = 0.2500, Epoch 6 get 5.20p to train
+2026-05-01 09:58:38,370 - INFO - Epoch 7: Train Loss = 1.4494, Dev Loss = 1.4365, Train Accuracy = 0.2507, Dev Accuracy = 0.2500, Epoch 7 get 5.18p to train
+2026-05-01 10:07:18,971 - INFO - Epoch 1: Train Loss = 1.5412, Dev Loss = 1.3515, Train Accuracy = 0.2631, Dev Accuracy = 0.3343, Epoch 1 get 5.02p to train
+2026-05-01 10:12:27,370 - INFO - Epoch 2: Train Loss = 1.3326, Dev Loss = 1.3266, Train Accuracy = 0.3561, Dev Accuracy = 0.4047, Epoch 2 get 5.04p to train
+2026-05-01 10:17:36,072 - INFO - Epoch 3: Train Loss = 1.1934, Dev Loss = 1.1193, Train Accuracy = 0.4660, Dev Accuracy = 0.5388, Epoch 3 get 5.04p to train
+2026-05-01 10:22:45,438 - INFO - Epoch 4: Train Loss = 1.3163, Dev Loss = 1.2808, Train Accuracy = 0.3737, Dev Accuracy = 0.4017, Epoch 4 get 5.06p to train
+2026-05-01 10:27:48,063 - INFO - Epoch 5: Train Loss = 1.3894, Dev Loss = 1.3918, Train Accuracy = 0.2549, Dev Accuracy = 0.2500, Epoch 5 get 4.95p to train
+2026-05-01 10:32:57,249 - INFO - Epoch 6: Train Loss = 1.9887, Dev Loss = 1.4479, Train Accuracy = 0.2519, Dev Accuracy = 0.2500, Epoch 6 get 5.06p to train
+2026-05-01 10:37:57,113 - INFO - Epoch 7: Train Loss = 131.8293, Dev Loss = 3.9108, Train Accuracy = 0.2512, Dev Accuracy = 0.2500, Epoch 7 get 4.91p to train
+2026-05-01 10:43:02,192 - INFO - Epoch 8: Train Loss = 16103.5176, Dev Loss = 2928.2578, Train Accuracy = 0.2472, Dev Accuracy = 0.2500, Epoch 8 get 4.98p to train
+2026-05-01 10:48:56,597 - INFO - Epoch 1: Train Loss = 1.2846, Dev Loss = 1.1690, Train Accuracy = 0.3904, Dev Accuracy = 0.4820, Epoch 1 get 4.95p to train
+2026-05-01 10:53:58,945 - INFO - Epoch 2: Train Loss = 1.3431, Dev Loss = 1.3871, Train Accuracy = 0.3377, Dev Accuracy = 0.3179, Epoch 2 get 4.94p to train
+2026-05-01 11:03:50,053 - INFO - Epoch 1: Train Loss = 1.3077, Dev Loss = 1.1819, Train Accuracy = 0.3694, Dev Accuracy = 0.4841, Epoch 1 get 4.99p to train
+2026-05-01 11:08:52,267 - INFO - Epoch 2: Train Loss = 1.1232, Dev Loss = 1.0661, Train Accuracy = 0.5120, Dev Accuracy = 0.5475, Epoch 2 get 4.94p to train
+2026-05-01 11:13:55,873 - INFO - Epoch 3: Train Loss = 1.0446, Dev Loss = 1.0334, Train Accuracy = 0.5572, Dev Accuracy = 0.5591, Epoch 3 get 4.95p to train
+2026-05-01 11:18:56,569 - INFO - Epoch 4: Train Loss = 1.0037, Dev Loss = 0.9744, Train Accuracy = 0.5768, Dev Accuracy = 0.5901, Epoch 4 get 4.91p to train
+2026-05-01 11:24:02,554 - INFO - Epoch 5: Train Loss = 0.9687, Dev Loss = 0.9430, Train Accuracy = 0.5964, Dev Accuracy = 0.5980, Epoch 5 get 5.00p to train
+2026-05-01 11:29:10,737 - INFO - Epoch 6: Train Loss = 0.9410, Dev Loss = 0.9381, Train Accuracy = 0.6100, Dev Accuracy = 0.6179, Epoch 6 get 5.04p to train
+2026-05-01 11:34:12,420 - INFO - Epoch 7: Train Loss = 0.9157, Dev Loss = 0.8982, Train Accuracy = 0.6241, Dev Accuracy = 0.6251, Epoch 7 get 4.92p to train
+2026-05-01 11:39:15,309 - INFO - Epoch 8: Train Loss = 0.8876, Dev Loss = 0.8999, Train Accuracy = 0.6374, Dev Accuracy = 0.6442, Epoch 8 get 4.95p to train
+2026-05-01 11:44:11,782 - INFO - Epoch 9: Train Loss = 0.8596, Dev Loss = 0.8685, Train Accuracy = 0.6506, Dev Accuracy = 0.6493, Epoch 9 get 4.84p to train
+2026-05-01 11:49:11,123 - INFO - Epoch 10: Train Loss = 0.8288, Dev Loss = 0.8482, Train Accuracy = 0.6646, Dev Accuracy = 0.6584, Epoch 10 get 4.89p to train
+2026-05-01 11:54:10,512 - INFO - Epoch 11: Train Loss = 0.7974, Dev Loss = 0.7976, Train Accuracy = 0.6793, Dev Accuracy = 0.6824, Epoch 11 get 4.89p to train
+2026-05-01 11:59:14,606 - INFO - Epoch 12: Train Loss = 0.7614, Dev Loss = 0.8220, Train Accuracy = 0.6970, Dev Accuracy = 0.6850, Epoch 12 get 4.97p to train
+2026-05-01 12:04:16,423 - INFO - Epoch 13: Train Loss = 0.7227, Dev Loss = 0.8312, Train Accuracy = 0.7143, Dev Accuracy = 0.6912, Epoch 13 get 4.94p to train
+2026-05-01 12:09:17,314 - INFO - Epoch 14: Train Loss = 0.6869, Dev Loss = 0.7987, Train Accuracy = 0.7303, Dev Accuracy = 0.7003, Epoch 14 get 4.92p to train
+2026-05-01 12:14:21,625 - INFO - Epoch 15: Train Loss = 0.6489, Dev Loss = 0.7359, Train Accuracy = 0.7487, Dev Accuracy = 0.7205, Epoch 15 get 4.98p to train
+2026-05-01 12:19:27,093 - INFO - Epoch 16: Train Loss = 0.6139, Dev Loss = 0.7279, Train Accuracy = 0.7642, Dev Accuracy = 0.7316, Epoch 16 get 5.00p to train
+2026-05-01 12:24:31,121 - INFO - Epoch 17: Train Loss = 0.5809, Dev Loss = 0.7198, Train Accuracy = 0.7783, Dev Accuracy = 0.7446, Epoch 17 get 4.97p to train
+2026-05-01 12:29:41,219 - INFO - Epoch 18: Train Loss = 0.5522, Dev Loss = 0.7224, Train Accuracy = 0.7906, Dev Accuracy = 0.7362, Epoch 18 get 5.07p to train
+2026-05-01 12:34:46,823 - INFO - Epoch 19: Train Loss = 0.5280, Dev Loss = 0.6938, Train Accuracy = 0.8009, Dev Accuracy = 0.7553, Epoch 19 get 4.99p to train
+2026-05-01 12:39:53,798 - INFO - Epoch 20: Train Loss = 0.5005, Dev Loss = 0.7062, Train Accuracy = 0.8136, Dev Accuracy = 0.7588, Epoch 20 get 5.02p to train
+2026-05-01 12:45:05,090 - INFO - Epoch 21: Train Loss = 0.4768, Dev Loss = 0.7070, Train Accuracy = 0.8227, Dev Accuracy = 0.7524, Epoch 21 get 5.09p to train
+2026-05-01 12:50:15,320 - INFO - Epoch 22: Train Loss = 0.4578, Dev Loss = 0.7191, Train Accuracy = 0.8299, Dev Accuracy = 0.7676, Epoch 22 get 5.07p to train
+2026-05-01 12:55:23,182 - INFO - Epoch 23: Train Loss = 0.4416, Dev Loss = 0.7112, Train Accuracy = 0.8383, Dev Accuracy = 0.7693, Epoch 23 get 5.03p to train
+2026-05-01 13:00:32,448 - INFO - Epoch 24: Train Loss = 0.4242, Dev Loss = 0.6760, Train Accuracy = 0.8437, Dev Accuracy = 0.7678, Epoch 24 get 5.05p to train
+2026-05-01 13:05:39,135 - INFO - Epoch 25: Train Loss = 0.4049, Dev Loss = 0.6802, Train Accuracy = 0.8524, Dev Accuracy = 0.7596, Epoch 25 get 5.01p to train
+2026-05-01 13:10:48,739 - INFO - Epoch 26: Train Loss = 0.3932, Dev Loss = 0.6837, Train Accuracy = 0.8572, Dev Accuracy = 0.7729, Epoch 26 get 5.06p to train
+2026-05-01 13:15:59,262 - INFO - Epoch 27: Train Loss = 0.3777, Dev Loss = 0.6723, Train Accuracy = 0.8640, Dev Accuracy = 0.7720, Epoch 27 get 5.08p to train
+2026-05-01 13:21:09,998 - INFO - Epoch 28: Train Loss = 0.3682, Dev Loss = 0.6656, Train Accuracy = 0.8671, Dev Accuracy = 0.7854, Epoch 28 get 5.07p to train
+2026-05-01 13:26:20,372 - INFO - Epoch 29: Train Loss = 0.3554, Dev Loss = 0.6891, Train Accuracy = 0.8720, Dev Accuracy = 0.7801, Epoch 29 get 5.07p to train
+2026-05-01 13:31:33,615 - INFO - Epoch 30: Train Loss = 0.3487, Dev Loss = 0.6921, Train Accuracy = 0.8741, Dev Accuracy = 0.7775, Epoch 30 get 5.12p to train
+2026-05-01 13:36:43,260 - INFO - Epoch 31: Train Loss = 0.3057, Dev Loss = 0.6861, Train Accuracy = 0.8915, Dev Accuracy = 0.7929, Epoch 31 get 5.06p to train
+2026-05-01 13:42:01,696 - INFO - Epoch 32: Train Loss = 0.2821, Dev Loss = 0.6885, Train Accuracy = 0.9013, Dev Accuracy = 0.7901, Epoch 32 get 5.20p to train
+2026-05-01 13:47:14,330 - INFO - Epoch 33: Train Loss = 0.2765, Dev Loss = 0.6960, Train Accuracy = 0.9037, Dev Accuracy = 0.7911, Epoch 33 get 5.10p to train
+2026-05-01 13:52:29,918 - INFO - Epoch 34: Train Loss = 0.2687, Dev Loss = 0.6828, Train Accuracy = 0.9063, Dev Accuracy = 0.7922, Epoch 34 get 5.15p to train
+2026-05-01 13:57:41,246 - INFO - Epoch 35: Train Loss = 0.2646, Dev Loss = 0.6894, Train Accuracy = 0.9080, Dev Accuracy = 0.7961, Epoch 35 get 5.09p to train
+2026-05-01 14:01:44,478 - INFO - Epoch 36: Train Loss = 0.2594, Dev Loss = 0.6782, Train Accuracy = 0.9106, Dev Accuracy = 0.7953, Epoch 36 get 3.99p to train
+2026-05-01 14:05:28,440 - INFO - Epoch 37: Train Loss = 0.2563, Dev Loss = 0.6839, Train Accuracy = 0.9110, Dev Accuracy = 0.8008, Epoch 37 get 3.67p to train
+2026-05-01 14:09:13,123 - INFO - Epoch 38: Train Loss = 0.2536, Dev Loss = 0.6694, Train Accuracy = 0.9119, Dev Accuracy = 0.8004, Epoch 38 get 3.68p to train
+2026-05-01 14:12:58,850 - INFO - Epoch 39: Train Loss = 0.2503, Dev Loss = 0.6810, Train Accuracy = 0.9129, Dev Accuracy = 0.7999, Epoch 39 get 3.69p to train
+2026-05-01 14:17:04,218 - INFO - Epoch 40: Train Loss = 0.2506, Dev Loss = 0.6769, Train Accuracy = 0.9134, Dev Accuracy = 0.8051, Epoch 40 get 4.02p to train
+2026-05-01 14:20:56,574 - INFO - Epoch 41: Train Loss = 0.2426, Dev Loss = 0.6855, Train Accuracy = 0.9169, Dev Accuracy = 0.8008, Epoch 41 get 3.81p to train
+2026-05-01 14:24:13,724 - INFO - Epoch 42: Train Loss = 0.2432, Dev Loss = 0.6679, Train Accuracy = 0.9163, Dev Accuracy = 0.8011, Epoch 42 get 3.22p to train
+2026-05-01 14:27:22,291 - INFO - Epoch 43: Train Loss = 0.2386, Dev Loss = 0.6931, Train Accuracy = 0.9177, Dev Accuracy = 0.8000, Epoch 43 get 3.08p to train
+2026-05-01 14:30:32,289 - INFO - Epoch 44: Train Loss = 0.2401, Dev Loss = 0.6864, Train Accuracy = 0.9184, Dev Accuracy = 0.8005, Epoch 44 get 3.11p to train
+2026-05-01 14:33:40,646 - INFO - Epoch 45: Train Loss = 0.2362, Dev Loss = 0.6949, Train Accuracy = 0.9192, Dev Accuracy = 0.8009, Epoch 45 get 3.08p to train
+2026-05-01 14:36:49,910 - INFO - Epoch 46: Train Loss = 0.2339, Dev Loss = 0.6714, Train Accuracy = 0.9197, Dev Accuracy = 0.8062, Epoch 46 get 3.10p to train
+2026-05-01 14:40:03,183 - INFO - Epoch 47: Train Loss = 0.2371, Dev Loss = 0.6626, Train Accuracy = 0.9183, Dev Accuracy = 0.8049, Epoch 47 get 3.16p to train
+2026-05-01 14:43:10,948 - INFO - Epoch 48: Train Loss = 0.2329, Dev Loss = 0.6650, Train Accuracy = 0.9204, Dev Accuracy = 0.8029, Epoch 48 get 3.07p to train
+2026-05-01 14:46:25,459 - INFO - Epoch 49: Train Loss = 0.2274, Dev Loss = 0.6965, Train Accuracy = 0.9220, Dev Accuracy = 0.8030, Epoch 49 get 3.18p to train
+2026-05-01 14:49:47,925 - INFO - Epoch 50: Train Loss = 0.2306, Dev Loss = 0.6564, Train Accuracy = 0.9212, Dev Accuracy = 0.8159, Epoch 50 get 3.31p to train
+2026-05-01 14:52:54,754 - INFO - Epoch 51: Train Loss = 0.2268, Dev Loss = 0.6818, Train Accuracy = 0.9226, Dev Accuracy = 0.8068, Epoch 51 get 3.05p to train
+2026-05-01 14:56:19,969 - INFO - Epoch 52: Train Loss = 0.2242, Dev Loss = 0.6809, Train Accuracy = 0.9237, Dev Accuracy = 0.8022, Epoch 52 get 3.36p to train
+2026-05-01 14:59:43,207 - INFO - Epoch 53: Train Loss = 0.2261, Dev Loss = 0.6790, Train Accuracy = 0.9225, Dev Accuracy = 0.8030, Epoch 53 get 3.33p to train
+2026-05-01 15:03:05,522 - INFO - Epoch 54: Train Loss = 0.2235, Dev Loss = 0.6760, Train Accuracy = 0.9232, Dev Accuracy = 0.8041, Epoch 54 get 3.31p to train
+2026-05-01 15:06:19,075 - INFO - Epoch 55: Train Loss = 0.2231, Dev Loss = 0.6642, Train Accuracy = 0.9232, Dev Accuracy = 0.8059, Epoch 55 get 3.17p to train
+2026-05-01 15:09:40,911 - INFO - Epoch 56: Train Loss = 0.2197, Dev Loss = 0.6666, Train Accuracy = 0.9247, Dev Accuracy = 0.8089, Epoch 56 get 3.30p to train
+2026-05-01 15:13:04,839 - INFO - Epoch 57: Train Loss = 0.2213, Dev Loss = 0.6688, Train Accuracy = 0.9239, Dev Accuracy = 0.8092, Epoch 57 get 3.34p to train
+2026-05-01 15:16:18,782 - INFO - Epoch 58: Train Loss = 0.2191, Dev Loss = 0.6675, Train Accuracy = 0.9251, Dev Accuracy = 0.8086, Epoch 58 get 3.17p to train
+2026-05-01 15:19:40,244 - INFO - Epoch 59: Train Loss = 0.2180, Dev Loss = 0.6715, Train Accuracy = 0.9258, Dev Accuracy = 0.8049, Epoch 59 get 3.30p to train
+2026-05-01 15:22:52,372 - INFO - Epoch 60: Train Loss = 0.2158, Dev Loss = 0.6974, Train Accuracy = 0.9263, Dev Accuracy = 0.8025, Epoch 60 get 3.14p to train
+2026-05-01 15:25:57,000 - INFO - Epoch 61: Train Loss = 0.2121, Dev Loss = 0.6798, Train Accuracy = 0.9270, Dev Accuracy = 0.8097, Epoch 61 get 3.02p to train
+2026-05-01 15:29:09,302 - INFO - Epoch 62: Train Loss = 0.2155, Dev Loss = 0.6866, Train Accuracy = 0.9268, Dev Accuracy = 0.8072, Epoch 62 get 3.15p to train
+2026-05-01 15:32:14,190 - INFO - Epoch 63: Train Loss = 0.2082, Dev Loss = 0.6696, Train Accuracy = 0.9288, Dev Accuracy = 0.8046, Epoch 63 get 3.02p to train
+2026-05-01 15:35:20,993 - INFO - Epoch 64: Train Loss = 0.2072, Dev Loss = 0.6768, Train Accuracy = 0.9290, Dev Accuracy = 0.8087, Epoch 64 get 3.06p to train
+2026-05-01 15:38:31,735 - INFO - Epoch 65: Train Loss = 0.2086, Dev Loss = 0.6861, Train Accuracy = 0.9286, Dev Accuracy = 0.8062, Epoch 65 get 3.12p to train
+2026-05-01 15:41:41,118 - INFO - Epoch 66: Train Loss = 0.2120, Dev Loss = 0.6657, Train Accuracy = 0.9271, Dev Accuracy = 0.8080, Epoch 66 get 3.10p to train
+2026-05-01 15:44:52,057 - INFO - Epoch 67: Train Loss = 0.2087, Dev Loss = 0.6804, Train Accuracy = 0.9290, Dev Accuracy = 0.8070, Epoch 67 get 3.12p to train
+2026-05-01 15:47:59,732 - INFO - Epoch 68: Train Loss = 0.2112, Dev Loss = 0.6689, Train Accuracy = 0.9282, Dev Accuracy = 0.8103, Epoch 68 get 3.07p to train
+2026-05-01 15:51:09,766 - INFO - Epoch 69: Train Loss = 0.2104, Dev Loss = 0.6828, Train Accuracy = 0.9289, Dev Accuracy = 0.8037, Epoch 69 get 3.11p to train
+2026-05-01 15:54:19,550 - INFO - Epoch 70: Train Loss = 0.2085, Dev Loss = 0.6806, Train Accuracy = 0.9290, Dev Accuracy = 0.8042, Epoch 70 get 3.11p to train
+2026-05-01 15:57:28,071 - INFO - Epoch 71: Train Loss = 0.2096, Dev Loss = 0.6808, Train Accuracy = 0.9287, Dev Accuracy = 0.8058, Epoch 71 get 3.09p to train
+2026-05-01 16:00:39,900 - INFO - Epoch 72: Train Loss = 0.2103, Dev Loss = 0.6620, Train Accuracy = 0.9277, Dev Accuracy = 0.8079, Epoch 72 get 3.14p to train
+2026-05-01 16:03:49,352 - INFO - Epoch 73: Train Loss = 0.2081, Dev Loss = 0.6682, Train Accuracy = 0.9288, Dev Accuracy = 0.8103, Epoch 73 get 3.10p to train
+2026-05-01 16:06:54,500 - INFO - Epoch 74: Train Loss = 0.2072, Dev Loss = 0.6817, Train Accuracy = 0.9289, Dev Accuracy = 0.8122, Epoch 74 get 3.03p to train
+2026-05-01 16:10:01,639 - INFO - Epoch 75: Train Loss = 0.2073, Dev Loss = 0.6897, Train Accuracy = 0.9284, Dev Accuracy = 0.8089, Epoch 75 get 3.06p to train
+2026-05-01 16:13:52,767 - INFO - Epoch 76: Train Loss = 0.2089, Dev Loss = 0.6636, Train Accuracy = 0.9283, Dev Accuracy = 0.8078, Epoch 76 get 3.75p to train
+2026-05-01 16:18:56,203 - INFO - Epoch 77: Train Loss = 0.2101, Dev Loss = 0.6577, Train Accuracy = 0.9285, Dev Accuracy = 0.8096, Epoch 77 get 4.96p to train
+2026-05-01 16:23:58,779 - INFO - Epoch 78: Train Loss = 0.2057, Dev Loss = 0.6880, Train Accuracy = 0.9294, Dev Accuracy = 0.8055, Epoch 78 get 4.95p to train
+2026-05-01 16:29:01,462 - INFO - Epoch 79: Train Loss = 0.2065, Dev Loss = 0.6813, Train Accuracy = 0.9297, Dev Accuracy = 0.8084, Epoch 79 get 4.96p to train
+2026-05-01 16:46:36,534 - INFO - Epoch 1: Train Loss = 1.3019, Dev Loss = 1.1543, Train Accuracy = 0.3663, Dev Accuracy = 0.4974, Epoch 1 get 11.47p to train
+2026-05-01 16:58:20,816 - INFO - Epoch 2: Train Loss = 1.0983, Dev Loss = 1.0796, Train Accuracy = 0.5247, Dev Accuracy = 0.5459, Epoch 2 get 11.53p to train
+2026-05-01 17:10:00,565 - INFO - Epoch 3: Train Loss = 1.0192, Dev Loss = 1.0642, Train Accuracy = 0.5707, Dev Accuracy = 0.5586, Epoch 3 get 11.45p to train
+2026-05-01 17:21:37,216 - INFO - Epoch 4: Train Loss = 0.9726, Dev Loss = 0.9802, Train Accuracy = 0.5929, Dev Accuracy = 0.5959, Epoch 4 get 11.41p to train
+2026-05-01 17:33:24,785 - INFO - Epoch 5: Train Loss = 0.9367, Dev Loss = 0.9557, Train Accuracy = 0.6123, Dev Accuracy = 0.6043, Epoch 5 get 11.59p to train
+2026-05-01 17:45:16,016 - INFO - Epoch 6: Train Loss = 0.9093, Dev Loss = 0.9277, Train Accuracy = 0.6241, Dev Accuracy = 0.6203, Epoch 6 get 11.64p to train
+2026-05-01 17:57:00,128 - INFO - Epoch 7: Train Loss = 0.8871, Dev Loss = 0.9239, Train Accuracy = 0.6362, Dev Accuracy = 0.6291, Epoch 7 get 11.52p to train
+2026-05-01 18:08:48,511 - INFO - Epoch 8: Train Loss = 0.8668, Dev Loss = 0.8799, Train Accuracy = 0.6457, Dev Accuracy = 0.6400, Epoch 8 get 11.59p to train
+2026-05-01 18:20:35,093 - INFO - Epoch 9: Train Loss = 0.8368, Dev Loss = 0.8808, Train Accuracy = 0.6601, Dev Accuracy = 0.6491, Epoch 9 get 11.56p to train
+2026-05-01 18:32:16,157 - INFO - Epoch 10: Train Loss = 0.8024, Dev Loss = 0.8164, Train Accuracy = 0.6771, Dev Accuracy = 0.6711, Epoch 10 get 11.47p to train
+2026-05-01 18:43:56,216 - INFO - Epoch 11: Train Loss = 0.7664, Dev Loss = 0.8115, Train Accuracy = 0.6955, Dev Accuracy = 0.6820, Epoch 11 get 11.47p to train
+2026-05-01 18:55:41,667 - INFO - Epoch 12: Train Loss = 0.7257, Dev Loss = 0.7653, Train Accuracy = 0.7136, Dev Accuracy = 0.7068, Epoch 12 get 11.55p to train
+2026-05-01 19:07:27,416 - INFO - Epoch 13: Train Loss = 0.6834, Dev Loss = 0.7426, Train Accuracy = 0.7338, Dev Accuracy = 0.7138, Epoch 13 get 11.55p to train
+2026-05-01 19:18:59,721 - INFO - Epoch 14: Train Loss = 0.6363, Dev Loss = 0.7414, Train Accuracy = 0.7543, Dev Accuracy = 0.7228, Epoch 14 get 11.33p to train
+2026-05-01 19:30:32,327 - INFO - Epoch 15: Train Loss = 0.5962, Dev Loss = 0.7011, Train Accuracy = 0.7719, Dev Accuracy = 0.7367, Epoch 15 get 11.33p to train
+2026-05-01 19:42:03,238 - INFO - Epoch 16: Train Loss = 0.5563, Dev Loss = 0.7293, Train Accuracy = 0.7890, Dev Accuracy = 0.7413, Epoch 16 get 11.31p to train
+2026-05-01 19:53:36,493 - INFO - Epoch 17: Train Loss = 0.5258, Dev Loss = 0.6743, Train Accuracy = 0.8030, Dev Accuracy = 0.7513, Epoch 17 get 11.34p to train
+2026-05-01 20:05:05,357 - INFO - Epoch 18: Train Loss = 0.4924, Dev Loss = 0.7273, Train Accuracy = 0.8169, Dev Accuracy = 0.7446, Epoch 18 get 11.27p to train
+2026-05-01 20:16:33,392 - INFO - Epoch 19: Train Loss = 0.4637, Dev Loss = 0.6956, Train Accuracy = 0.8278, Dev Accuracy = 0.7580, Epoch 19 get 11.26p to train
+2026-05-01 20:28:11,871 - INFO - Epoch 20: Train Loss = 0.4395, Dev Loss = 0.7459, Train Accuracy = 0.8399, Dev Accuracy = 0.7599, Epoch 20 get 11.43p to train
+2026-05-01 20:39:55,925 - INFO - Epoch 21: Train Loss = 0.4183, Dev Loss = 0.7249, Train Accuracy = 0.8471, Dev Accuracy = 0.7546, Epoch 21 get 11.52p to train
+2026-05-01 20:51:36,560 - INFO - Epoch 22: Train Loss = 0.3967, Dev Loss = 0.6769, Train Accuracy = 0.8564, Dev Accuracy = 0.7758, Epoch 22 get 11.48p to train
+2026-05-01 21:02:33,309 - INFO - Epoch 23: Train Loss = 0.3821, Dev Loss = 0.6898, Train Accuracy = 0.8618, Dev Accuracy = 0.7768, Epoch 23 get 10.80p to train
+2026-05-01 21:10:45,679 - INFO - Epoch 24: Train Loss = 0.3651, Dev Loss = 0.6921, Train Accuracy = 0.8686, Dev Accuracy = 0.7771, Epoch 24 get 8.07p to train
+2026-05-01 21:18:46,208 - INFO - Epoch 25: Train Loss = 0.3520, Dev Loss = 0.6874, Train Accuracy = 0.8749, Dev Accuracy = 0.7816, Epoch 25 get 7.87p to train
+2026-05-01 21:26:43,459 - INFO - Epoch 26: Train Loss = 0.3341, Dev Loss = 0.6760, Train Accuracy = 0.8804, Dev Accuracy = 0.7849, Epoch 26 get 7.80p to train
+2026-05-01 21:35:24,989 - INFO - Epoch 27: Train Loss = 0.3278, Dev Loss = 0.6440, Train Accuracy = 0.8844, Dev Accuracy = 0.7842, Epoch 27 get 8.55p to train
+2026-05-01 21:43:53,466 - INFO - Epoch 28: Train Loss = 0.3170, Dev Loss = 0.6974, Train Accuracy = 0.8884, Dev Accuracy = 0.7795, Epoch 28 get 8.33p to train
+2026-05-01 21:52:17,604 - INFO - Epoch 29: Train Loss = 0.3051, Dev Loss = 0.7138, Train Accuracy = 0.8920, Dev Accuracy = 0.7859, Epoch 29 get 8.26p to train
+2026-05-01 22:00:54,759 - INFO - Epoch 30: Train Loss = 0.2969, Dev Loss = 0.6561, Train Accuracy = 0.8954, Dev Accuracy = 0.7876, Epoch 30 get 8.47p to train
+2026-05-01 22:09:45,095 - INFO - Epoch 31: Train Loss = 0.2612, Dev Loss = 0.6598, Train Accuracy = 0.9099, Dev Accuracy = 0.8021, Epoch 31 get 8.70p to train
+2026-05-01 22:18:21,715 - INFO - Epoch 32: Train Loss = 0.2432, Dev Loss = 0.6671, Train Accuracy = 0.9166, Dev Accuracy = 0.8028, Epoch 32 get 8.47p to train
+2026-05-01 22:27:02,483 - INFO - Epoch 33: Train Loss = 0.2328, Dev Loss = 0.6492, Train Accuracy = 0.9187, Dev Accuracy = 0.8025, Epoch 33 get 8.53p to train
+2026-05-01 22:35:26,571 - INFO - Epoch 34: Train Loss = 0.2262, Dev Loss = 0.6551, Train Accuracy = 0.9224, Dev Accuracy = 0.8086, Epoch 34 get 8.26p to train
+2026-05-01 22:43:52,043 - INFO - Epoch 35: Train Loss = 0.2204, Dev Loss = 0.6565, Train Accuracy = 0.9251, Dev Accuracy = 0.8078, Epoch 35 get 8.28p to train
+2026-05-01 22:52:12,714 - INFO - Epoch 36: Train Loss = 0.2212, Dev Loss = 0.6482, Train Accuracy = 0.9243, Dev Accuracy = 0.8076, Epoch 36 get 8.20p to train
+2026-05-01 23:00:39,113 - INFO - Epoch 37: Train Loss = 0.2166, Dev Loss = 0.6467, Train Accuracy = 0.9254, Dev Accuracy = 0.8107, Epoch 37 get 8.29p to train
+2026-05-01 23:09:03,196 - INFO - Epoch 38: Train Loss = 0.2119, Dev Loss = 0.6518, Train Accuracy = 0.9275, Dev Accuracy = 0.8118, Epoch 38 get 8.26p to train
+2026-05-01 23:17:13,775 - INFO - Epoch 39: Train Loss = 0.2106, Dev Loss = 0.6339, Train Accuracy = 0.9288, Dev Accuracy = 0.8128, Epoch 39 get 8.03p to train
+2026-05-01 23:25:29,252 - INFO - Epoch 40: Train Loss = 0.2098, Dev Loss = 0.6217, Train Accuracy = 0.9280, Dev Accuracy = 0.8151, Epoch 40 get 8.12p to train
+2026-05-01 23:33:38,420 - INFO - Epoch 41: Train Loss = 0.2069, Dev Loss = 0.6395, Train Accuracy = 0.9294, Dev Accuracy = 0.8126, Epoch 41 get 8.01p to train
+2026-05-01 23:41:57,975 - INFO - Epoch 42: Train Loss = 0.2045, Dev Loss = 0.6606, Train Accuracy = 0.9302, Dev Accuracy = 0.8118, Epoch 42 get 8.18p to train
+2026-05-01 23:50:20,029 - INFO - Epoch 43: Train Loss = 0.1987, Dev Loss = 0.6684, Train Accuracy = 0.9314, Dev Accuracy = 0.8100, Epoch 43 get 8.22p to train
+2026-05-01 23:58:34,855 - INFO - Epoch 44: Train Loss = 0.2033, Dev Loss = 0.6273, Train Accuracy = 0.9313, Dev Accuracy = 0.8139, Epoch 44 get 8.11p to train
+2026-05-02 00:06:58,484 - INFO - Epoch 45: Train Loss = 0.1996, Dev Loss = 0.6248, Train Accuracy = 0.9317, Dev Accuracy = 0.8143, Epoch 45 get 8.25p to train
+2026-05-02 00:15:22,392 - INFO - Epoch 46: Train Loss = 0.1976, Dev Loss = 0.6643, Train Accuracy = 0.9317, Dev Accuracy = 0.8142, Epoch 46 get 8.26p to train
+2026-05-02 00:23:52,741 - INFO - Epoch 47: Train Loss = 0.1979, Dev Loss = 0.6217, Train Accuracy = 0.9321, Dev Accuracy = 0.8147, Epoch 47 get 8.36p to train
+2026-05-02 00:32:18,708 - INFO - Epoch 48: Train Loss = 0.1957, Dev Loss = 0.6458, Train Accuracy = 0.9336, Dev Accuracy = 0.8157, Epoch 48 get 8.29p to train
+2026-05-02 00:40:31,903 - INFO - Epoch 49: Train Loss = 0.1907, Dev Loss = 0.6677, Train Accuracy = 0.9348, Dev Accuracy = 0.8128, Epoch 49 get 8.07p to train
+2026-05-02 00:48:36,184 - INFO - Epoch 50: Train Loss = 0.1913, Dev Loss = 0.6371, Train Accuracy = 0.9346, Dev Accuracy = 0.8178, Epoch 50 get 7.93p to train
+2026-05-02 00:56:46,517 - INFO - Epoch 51: Train Loss = 0.1902, Dev Loss = 0.6419, Train Accuracy = 0.9351, Dev Accuracy = 0.8150, Epoch 51 get 8.03p to train
+2026-05-02 01:04:57,530 - INFO - Epoch 52: Train Loss = 0.1908, Dev Loss = 0.6413, Train Accuracy = 0.9344, Dev Accuracy = 0.8184, Epoch 52 get 8.03p to train
+2026-05-02 01:13:16,549 - INFO - Epoch 53: Train Loss = 0.1872, Dev Loss = 0.6272, Train Accuracy = 0.9363, Dev Accuracy = 0.8203, Epoch 53 get 8.17p to train
+2026-05-02 01:21:27,980 - INFO - Epoch 54: Train Loss = 0.1888, Dev Loss = 0.6423, Train Accuracy = 0.9355, Dev Accuracy = 0.8142, Epoch 54 get 8.05p to train
+2026-05-02 01:29:33,158 - INFO - Epoch 55: Train Loss = 0.1842, Dev Loss = 0.6604, Train Accuracy = 0.9369, Dev Accuracy = 0.8099, Epoch 55 get 7.94p to train
+2026-05-02 01:37:45,923 - INFO - Epoch 56: Train Loss = 0.1871, Dev Loss = 0.6303, Train Accuracy = 0.9363, Dev Accuracy = 0.8175, Epoch 56 get 8.07p to train
+2026-05-02 01:45:48,280 - INFO - Epoch 57: Train Loss = 0.1843, Dev Loss = 0.6229, Train Accuracy = 0.9370, Dev Accuracy = 0.8180, Epoch 57 get 7.90p to train
+2026-05-02 01:53:56,883 - INFO - Epoch 58: Train Loss = 0.1836, Dev Loss = 0.6349, Train Accuracy = 0.9382, Dev Accuracy = 0.8168, Epoch 58 get 8.00p to train
+2026-05-02 02:02:06,996 - INFO - Epoch 59: Train Loss = 0.1821, Dev Loss = 0.6565, Train Accuracy = 0.9372, Dev Accuracy = 0.8187, Epoch 59 get 8.03p to train
+2026-05-02 02:10:16,699 - INFO - Epoch 60: Train Loss = 0.1822, Dev Loss = 0.6508, Train Accuracy = 0.9378, Dev Accuracy = 0.8200, Epoch 60 get 8.02p to train
+2026-05-02 02:18:34,401 - INFO - Epoch 61: Train Loss = 0.1779, Dev Loss = 0.6487, Train Accuracy = 0.9387, Dev Accuracy = 0.8153, Epoch 61 get 8.15p to train
+2026-05-02 02:26:34,123 - INFO - Epoch 62: Train Loss = 0.1768, Dev Loss = 0.6400, Train Accuracy = 0.9390, Dev Accuracy = 0.8172, Epoch 62 get 7.86p to train
+2026-05-02 02:34:14,605 - INFO - Epoch 63: Train Loss = 0.1761, Dev Loss = 0.6532, Train Accuracy = 0.9397, Dev Accuracy = 0.8136, Epoch 63 get 7.53p to train
+2026-05-02 02:41:52,554 - INFO - Epoch 64: Train Loss = 0.1785, Dev Loss = 0.6273, Train Accuracy = 0.9385, Dev Accuracy = 0.8241, Epoch 64 get 7.49p to train
+2026-05-02 02:49:40,235 - INFO - Epoch 65: Train Loss = 0.1761, Dev Loss = 0.6526, Train Accuracy = 0.9387, Dev Accuracy = 0.8153, Epoch 65 get 7.66p to train
+2026-05-02 02:57:25,742 - INFO - Epoch 66: Train Loss = 0.1741, Dev Loss = 0.6235, Train Accuracy = 0.9408, Dev Accuracy = 0.8230, Epoch 66 get 7.62p to train
+2026-05-02 03:05:08,091 - INFO - Epoch 67: Train Loss = 0.1756, Dev Loss = 0.6446, Train Accuracy = 0.9397, Dev Accuracy = 0.8197, Epoch 67 get 7.57p to train
+2026-05-02 03:12:53,131 - INFO - Epoch 68: Train Loss = 0.1745, Dev Loss = 0.6420, Train Accuracy = 0.9399, Dev Accuracy = 0.8171, Epoch 68 get 7.62p to train
+2026-05-02 03:20:26,541 - INFO - Epoch 69: Train Loss = 0.1747, Dev Loss = 0.6369, Train Accuracy = 0.9401, Dev Accuracy = 0.8182, Epoch 69 get 7.42p to train
+2026-05-02 03:28:05,780 - INFO - Epoch 70: Train Loss = 0.1728, Dev Loss = 0.6651, Train Accuracy = 0.9406, Dev Accuracy = 0.8155, Epoch 70 get 7.52p to train
+2026-05-02 03:35:44,666 - INFO - Epoch 71: Train Loss = 0.1748, Dev Loss = 0.6491, Train Accuracy = 0.9407, Dev Accuracy = 0.8161, Epoch 71 get 7.51p to train
+2026-05-02 03:43:29,017 - INFO - Epoch 72: Train Loss = 0.1739, Dev Loss = 0.6308, Train Accuracy = 0.9405, Dev Accuracy = 0.8204, Epoch 72 get 7.60p to train
+2026-05-02 03:51:15,428 - INFO - Epoch 73: Train Loss = 0.1735, Dev Loss = 0.6299, Train Accuracy = 0.9401, Dev Accuracy = 0.8205, Epoch 73 get 7.64p to train
+2026-05-02 03:58:49,426 - INFO - Epoch 74: Train Loss = 0.1744, Dev Loss = 0.6494, Train Accuracy = 0.9407, Dev Accuracy = 0.8174, Epoch 74 get 7.43p to train
+2026-05-02 04:06:29,182 - INFO - Epoch 75: Train Loss = 0.1747, Dev Loss = 0.6340, Train Accuracy = 0.9404, Dev Accuracy = 0.8195, Epoch 75 get 7.52p to train
+2026-05-02 04:14:42,823 - INFO - Epoch 76: Train Loss = 0.1724, Dev Loss = 0.6508, Train Accuracy = 0.9402, Dev Accuracy = 0.8157, Epoch 76 get 8.09p to train
+2026-05-02 04:23:01,385 - INFO - Epoch 77: Train Loss = 0.1725, Dev Loss = 0.6449, Train Accuracy = 0.9411, Dev Accuracy = 0.8150, Epoch 77 get 8.17p to train
+2026-05-02 04:31:15,888 - INFO - Epoch 78: Train Loss = 0.1756, Dev Loss = 0.6370, Train Accuracy = 0.9394, Dev Accuracy = 0.8163, Epoch 78 get 8.11p to train
+2026-05-02 04:38:53,802 - INFO - Epoch 79: Train Loss = 0.1734, Dev Loss = 0.6543, Train Accuracy = 0.9409, Dev Accuracy = 0.8142, Epoch 79 get 7.50p to train
+2026-05-02 04:46:29,295 - INFO - Epoch 80: Train Loss = 0.1731, Dev Loss = 0.6474, Train Accuracy = 0.9406, Dev Accuracy = 0.8199, Epoch 80 get 7.45p to train
+2026-05-02 04:53:59,628 - INFO - Epoch 81: Train Loss = 0.1707, Dev Loss = 0.6402, Train Accuracy = 0.9415, Dev Accuracy = 0.8178, Epoch 81 get 7.37p to train
+2026-05-02 05:01:36,782 - INFO - Epoch 82: Train Loss = 0.1730, Dev Loss = 0.6335, Train Accuracy = 0.9403, Dev Accuracy = 0.8172, Epoch 82 get 7.48p to train
+2026-05-02 05:09:17,247 - INFO - Epoch 83: Train Loss = 0.1716, Dev Loss = 0.6314, Train Accuracy = 0.9408, Dev Accuracy = 0.8236, Epoch 83 get 7.54p to train
+2026-05-02 05:17:03,093 - INFO - Epoch 84: Train Loss = 0.1701, Dev Loss = 0.6646, Train Accuracy = 0.9416, Dev Accuracy = 0.8151, Epoch 84 get 7.63p to train
+2026-05-02 05:24:41,395 - INFO - Epoch 85: Train Loss = 0.1717, Dev Loss = 0.6504, Train Accuracy = 0.9419, Dev Accuracy = 0.8178, Epoch 85 get 7.50p to train
+2026-05-02 05:32:29,287 - INFO - Epoch 86: Train Loss = 0.1709, Dev Loss = 0.6338, Train Accuracy = 0.9407, Dev Accuracy = 0.8234, Epoch 86 get 7.66p to train
+2026-05-02 05:39:57,850 - INFO - Epoch 87: Train Loss = 0.1701, Dev Loss = 0.6292, Train Accuracy = 0.9419, Dev Accuracy = 0.8229, Epoch 87 get 7.34p to train
+2026-05-02 05:47:31,904 - INFO - Epoch 88: Train Loss = 0.1725, Dev Loss = 0.6594, Train Accuracy = 0.9407, Dev Accuracy = 0.8184, Epoch 88 get 7.43p to train
+2026-05-02 05:55:03,862 - INFO - Epoch 89: Train Loss = 0.1718, Dev Loss = 0.6424, Train Accuracy = 0.9411, Dev Accuracy = 0.8207, Epoch 89 get 7.40p to train
+2026-05-02 06:02:35,365 - INFO - Epoch 90: Train Loss = 0.1733, Dev Loss = 0.6332, Train Accuracy = 0.9411, Dev Accuracy = 0.8178, Epoch 90 get 7.39p to train
+2026-05-02 06:10:08,996 - INFO - Epoch 91: Train Loss = 0.1690, Dev Loss = 0.6375, Train Accuracy = 0.9423, Dev Accuracy = 0.8217, Epoch 91 get 7.42p to train
+2026-05-02 06:17:46,204 - INFO - Epoch 92: Train Loss = 0.1702, Dev Loss = 0.6460, Train Accuracy = 0.9416, Dev Accuracy = 0.8208, Epoch 92 get 7.49p to train
+2026-05-02 06:25:21,895 - INFO - Epoch 93: Train Loss = 0.1706, Dev Loss = 0.6302, Train Accuracy = 0.9423, Dev Accuracy = 0.8213, Epoch 93 get 7.46p to train
+2026-05-02 06:32:55,378 - INFO - Epoch 94: Train Loss = 0.1705, Dev Loss = 0.6563, Train Accuracy = 0.9409, Dev Accuracy = 0.8163, Epoch 94 get 7.42p to train
+2026-05-02 06:40:44,044 - INFO - Epoch 95: Train Loss = 0.1716, Dev Loss = 0.6592, Train Accuracy = 0.9412, Dev Accuracy = 0.8154, Epoch 95 get 7.68p to train
+2026-05-02 06:48:21,513 - INFO - Epoch 96: Train Loss = 0.1735, Dev Loss = 0.6306, Train Accuracy = 0.9408, Dev Accuracy = 0.8241, Epoch 96 get 7.48p to train
+2026-05-02 06:55:56,953 - INFO - Epoch 97: Train Loss = 0.1699, Dev Loss = 0.6649, Train Accuracy = 0.9422, Dev Accuracy = 0.8166, Epoch 97 get 7.45p to train
+2026-05-02 07:03:40,022 - INFO - Epoch 98: Train Loss = 0.1703, Dev Loss = 0.6372, Train Accuracy = 0.9415, Dev Accuracy = 0.8203, Epoch 98 get 7.58p to train
+2026-05-02 07:11:19,221 - INFO - Epoch 99: Train Loss = 0.1727, Dev Loss = 0.6360, Train Accuracy = 0.9402, Dev Accuracy = 0.8207, Epoch 99 get 7.52p to train
+2026-05-02 07:18:53,413 - INFO - Epoch 100: Train Loss = 0.1676, Dev Loss = 0.6516, Train Accuracy = 0.9428, Dev Accuracy = 0.8171, Epoch 100 get 7.43p to train
+2026-05-02 09:14:27,629 - INFO - Epoch 1: Train Loss = 1.3077, Dev Loss = 1.1918, Train Accuracy = 0.3722, Dev Accuracy = 0.4567, Epoch 1 get 2.77p to train
+2026-05-02 09:17:13,513 - INFO - Epoch 2: Train Loss = 1.1636, Dev Loss = 1.1458, Train Accuracy = 0.4769, Dev Accuracy = 0.5178, Epoch 2 get 2.71p to train
+2026-05-02 09:20:08,362 - INFO - Epoch 3: Train Loss = 1.0949, Dev Loss = 1.0741, Train Accuracy = 0.5207, Dev Accuracy = 0.5433, Epoch 3 get 2.85p to train
+2026-05-02 09:22:52,861 - INFO - Epoch 4: Train Loss = 1.0521, Dev Loss = 1.0827, Train Accuracy = 0.5471, Dev Accuracy = 0.5553, Epoch 4 get 2.68p to train
+2026-05-02 09:25:43,604 - INFO - Epoch 5: Train Loss = 1.0185, Dev Loss = 1.0385, Train Accuracy = 0.5669, Dev Accuracy = 0.5767, Epoch 5 get 2.79p to train
+2026-05-02 09:28:32,993 - INFO - Epoch 6: Train Loss = 0.9954, Dev Loss = 1.0436, Train Accuracy = 0.5788, Dev Accuracy = 0.5921, Epoch 6 get 2.77p to train
+2026-05-02 09:31:21,545 - INFO - Epoch 7: Train Loss = 0.9715, Dev Loss = 0.9828, Train Accuracy = 0.5921, Dev Accuracy = 0.5929, Epoch 7 get 2.75p to train
+2026-05-02 09:34:08,868 - INFO - Epoch 8: Train Loss = 0.9530, Dev Loss = 0.9877, Train Accuracy = 0.6015, Dev Accuracy = 0.6021, Epoch 8 get 2.73p to train
+2026-05-02 09:37:04,757 - INFO - Epoch 9: Train Loss = 0.9351, Dev Loss = 0.9926, Train Accuracy = 0.6112, Dev Accuracy = 0.6164, Epoch 9 get 2.87p to train
+2026-05-02 09:39:48,266 - INFO - Epoch 10: Train Loss = 0.9177, Dev Loss = 0.9751, Train Accuracy = 0.6206, Dev Accuracy = 0.6166, Epoch 10 get 2.67p to train
+2026-05-02 09:42:37,685 - INFO - Epoch 11: Train Loss = 0.9008, Dev Loss = 0.9434, Train Accuracy = 0.6286, Dev Accuracy = 0.6316, Epoch 11 get 2.76p to train
+2026-05-02 09:45:25,120 - INFO - Epoch 12: Train Loss = 0.8891, Dev Loss = 0.9416, Train Accuracy = 0.6343, Dev Accuracy = 0.6259, Epoch 12 get 2.73p to train
+2026-05-02 09:48:13,354 - INFO - Epoch 13: Train Loss = 0.8763, Dev Loss = 0.9313, Train Accuracy = 0.6423, Dev Accuracy = 0.6307, Epoch 13 get 2.75p to train
+2026-05-02 09:51:03,023 - INFO - Epoch 14: Train Loss = 0.8634, Dev Loss = 0.9229, Train Accuracy = 0.6470, Dev Accuracy = 0.6413, Epoch 14 get 2.77p to train
+2026-05-02 09:53:51,764 - INFO - Epoch 15: Train Loss = 0.8509, Dev Loss = 0.9269, Train Accuracy = 0.6524, Dev Accuracy = 0.6380, Epoch 15 get 2.76p to train
+2026-05-02 09:56:41,636 - INFO - Epoch 16: Train Loss = 0.8423, Dev Loss = 0.9403, Train Accuracy = 0.6565, Dev Accuracy = 0.6466, Epoch 16 get 2.78p to train
+2026-05-02 09:59:27,818 - INFO - Epoch 17: Train Loss = 0.8269, Dev Loss = 0.8988, Train Accuracy = 0.6644, Dev Accuracy = 0.6462, Epoch 17 get 2.71p to train
+2026-05-02 10:02:16,427 - INFO - Epoch 18: Train Loss = 0.8168, Dev Loss = 0.9270, Train Accuracy = 0.6683, Dev Accuracy = 0.6507, Epoch 18 get 2.76p to train
+2026-05-02 10:05:03,757 - INFO - Epoch 19: Train Loss = 0.8102, Dev Loss = 0.9113, Train Accuracy = 0.6728, Dev Accuracy = 0.6529, Epoch 19 get 2.73p to train
+2026-05-02 10:07:55,561 - INFO - Epoch 20: Train Loss = 0.7991, Dev Loss = 0.9279, Train Accuracy = 0.6757, Dev Accuracy = 0.6536, Epoch 20 get 2.81p to train
+2026-05-02 10:10:43,567 - INFO - Epoch 21: Train Loss = 0.7873, Dev Loss = 0.8976, Train Accuracy = 0.6839, Dev Accuracy = 0.6567, Epoch 21 get 2.74p to train
+2026-05-02 10:13:31,117 - INFO - Epoch 22: Train Loss = 0.7761, Dev Loss = 0.9045, Train Accuracy = 0.6875, Dev Accuracy = 0.6586, Epoch 22 get 2.74p to train
+2026-05-02 10:16:17,399 - INFO - Epoch 23: Train Loss = 0.7669, Dev Loss = 0.9007, Train Accuracy = 0.6910, Dev Accuracy = 0.6634, Epoch 23 get 2.72p to train
+2026-05-02 10:19:03,065 - INFO - Epoch 24: Train Loss = 0.7581, Dev Loss = 0.8905, Train Accuracy = 0.6949, Dev Accuracy = 0.6658, Epoch 24 get 2.71p to train
+2026-05-02 10:21:52,294 - INFO - Epoch 25: Train Loss = 0.7449, Dev Loss = 0.9233, Train Accuracy = 0.7013, Dev Accuracy = 0.6726, Epoch 25 get 2.76p to train
+2026-05-02 10:24:38,317 - INFO - Epoch 26: Train Loss = 0.7371, Dev Loss = 0.8834, Train Accuracy = 0.7048, Dev Accuracy = 0.6841, Epoch 26 get 2.71p to train
+2026-05-02 10:27:29,374 - INFO - Epoch 27: Train Loss = 0.7296, Dev Loss = 0.8881, Train Accuracy = 0.7101, Dev Accuracy = 0.6741, Epoch 27 get 2.79p to train
+2026-05-02 10:30:22,313 - INFO - Epoch 28: Train Loss = 0.7190, Dev Loss = 0.8859, Train Accuracy = 0.7126, Dev Accuracy = 0.6761, Epoch 28 get 2.83p to train
+2026-05-02 10:33:07,275 - INFO - Epoch 29: Train Loss = 0.7082, Dev Loss = 0.8782, Train Accuracy = 0.7179, Dev Accuracy = 0.6817, Epoch 29 get 2.69p to train
+2026-05-02 10:35:56,705 - INFO - Epoch 30: Train Loss = 0.6973, Dev Loss = 0.8843, Train Accuracy = 0.7222, Dev Accuracy = 0.6857, Epoch 30 get 2.77p to train
+2026-05-02 10:38:42,338 - INFO - Epoch 31: Train Loss = 0.6534, Dev Loss = 0.8841, Train Accuracy = 0.7406, Dev Accuracy = 0.6908, Epoch 31 get 2.70p to train
+2026-05-02 10:41:34,702 - INFO - Epoch 32: Train Loss = 0.6352, Dev Loss = 0.8822, Train Accuracy = 0.7501, Dev Accuracy = 0.6928, Epoch 32 get 2.82p to train
+2026-05-02 10:44:20,658 - INFO - Epoch 33: Train Loss = 0.6264, Dev Loss = 0.8850, Train Accuracy = 0.7537, Dev Accuracy = 0.6950, Epoch 33 get 2.71p to train
+2026-05-02 10:47:08,975 - INFO - Epoch 34: Train Loss = 0.6239, Dev Loss = 0.9053, Train Accuracy = 0.7560, Dev Accuracy = 0.6922, Epoch 34 get 2.75p to train
+2026-05-02 10:49:56,203 - INFO - Epoch 35: Train Loss = 0.6163, Dev Loss = 0.9051, Train Accuracy = 0.7576, Dev Accuracy = 0.6876, Epoch 35 get 2.73p to train
+2026-05-02 10:52:43,290 - INFO - Epoch 36: Train Loss = 0.6103, Dev Loss = 0.9155, Train Accuracy = 0.7601, Dev Accuracy = 0.6851, Epoch 36 get 2.73p to train
+2026-05-02 10:55:31,036 - INFO - Epoch 37: Train Loss = 0.6072, Dev Loss = 0.9163, Train Accuracy = 0.7633, Dev Accuracy = 0.6882, Epoch 37 get 2.74p to train
+2026-05-02 10:58:18,295 - INFO - Epoch 38: Train Loss = 0.6081, Dev Loss = 0.9000, Train Accuracy = 0.7624, Dev Accuracy = 0.6922, Epoch 38 get 2.73p to train
+2026-05-02 11:01:10,665 - INFO - Epoch 39: Train Loss = 0.6019, Dev Loss = 0.9004, Train Accuracy = 0.7641, Dev Accuracy = 0.6918, Epoch 39 get 2.82p to train
+2026-05-02 11:04:03,968 - INFO - Epoch 40: Train Loss = 0.6009, Dev Loss = 0.8969, Train Accuracy = 0.7642, Dev Accuracy = 0.6980, Epoch 40 get 2.83p to train
+2026-05-02 11:06:52,283 - INFO - Epoch 41: Train Loss = 0.5955, Dev Loss = 0.9143, Train Accuracy = 0.7672, Dev Accuracy = 0.6899, Epoch 41 get 2.75p to train
+2026-05-02 11:09:35,744 - INFO - Epoch 42: Train Loss = 0.5982, Dev Loss = 0.9011, Train Accuracy = 0.7666, Dev Accuracy = 0.6951, Epoch 42 get 2.67p to train
+2026-05-02 11:12:23,696 - INFO - Epoch 43: Train Loss = 0.5911, Dev Loss = 0.9076, Train Accuracy = 0.7700, Dev Accuracy = 0.6959, Epoch 43 get 2.74p to train
+2026-05-02 11:15:09,740 - INFO - Epoch 44: Train Loss = 0.5875, Dev Loss = 0.9200, Train Accuracy = 0.7701, Dev Accuracy = 0.6937, Epoch 44 get 2.71p to train
+2026-05-02 11:18:06,792 - INFO - Epoch 45: Train Loss = 0.5836, Dev Loss = 0.9055, Train Accuracy = 0.7734, Dev Accuracy = 0.7007, Epoch 45 get 2.90p to train
+2026-05-02 11:21:05,647 - INFO - Epoch 46: Train Loss = 0.5813, Dev Loss = 0.9150, Train Accuracy = 0.7743, Dev Accuracy = 0.6901, Epoch 46 get 2.92p to train
+2026-05-02 11:24:02,026 - INFO - Epoch 47: Train Loss = 0.5795, Dev Loss = 0.9099, Train Accuracy = 0.7752, Dev Accuracy = 0.6939, Epoch 47 get 2.88p to train
+2026-05-02 11:26:50,631 - INFO - Epoch 48: Train Loss = 0.5767, Dev Loss = 0.9182, Train Accuracy = 0.7755, Dev Accuracy = 0.6968, Epoch 48 get 2.75p to train
+2026-05-02 11:29:43,361 - INFO - Epoch 49: Train Loss = 0.5747, Dev Loss = 0.9264, Train Accuracy = 0.7773, Dev Accuracy = 0.6987, Epoch 49 get 2.82p to train
+2026-05-02 11:32:34,854 - INFO - Epoch 50: Train Loss = 0.5744, Dev Loss = 0.9165, Train Accuracy = 0.7769, Dev Accuracy = 0.6953, Epoch 50 get 2.80p to train
+2026-05-02 11:35:39,444 - INFO - Epoch 51: Train Loss = 0.5752, Dev Loss = 0.9102, Train Accuracy = 0.7760, Dev Accuracy = 0.7042, Epoch 51 get 3.02p to train
+2026-05-02 11:38:43,916 - INFO - Epoch 52: Train Loss = 0.5692, Dev Loss = 0.9371, Train Accuracy = 0.7787, Dev Accuracy = 0.6924, Epoch 52 get 3.02p to train
+2026-05-02 11:41:32,783 - INFO - Epoch 53: Train Loss = 0.5674, Dev Loss = 0.9006, Train Accuracy = 0.7794, Dev Accuracy = 0.7022, Epoch 53 get 2.76p to train
+2026-05-02 11:44:19,388 - INFO - Epoch 54: Train Loss = 0.5648, Dev Loss = 0.9328, Train Accuracy = 0.7805, Dev Accuracy = 0.6974, Epoch 54 get 2.72p to train
+2026-05-02 11:47:06,286 - INFO - Epoch 55: Train Loss = 0.5614, Dev Loss = 0.9242, Train Accuracy = 0.7832, Dev Accuracy = 0.6996, Epoch 55 get 2.73p to train
+2026-05-02 11:49:52,909 - INFO - Epoch 56: Train Loss = 0.5608, Dev Loss = 0.9343, Train Accuracy = 0.7833, Dev Accuracy = 0.6992, Epoch 56 get 2.72p to train
+2026-05-02 11:52:43,445 - INFO - Epoch 57: Train Loss = 0.5569, Dev Loss = 0.9312, Train Accuracy = 0.7835, Dev Accuracy = 0.6930, Epoch 57 get 2.78p to train
+2026-05-02 11:55:32,845 - INFO - Epoch 58: Train Loss = 0.5586, Dev Loss = 0.9249, Train Accuracy = 0.7834, Dev Accuracy = 0.7007, Epoch 58 get 2.76p to train
+2026-05-02 11:58:19,346 - INFO - Epoch 59: Train Loss = 0.5556, Dev Loss = 0.9191, Train Accuracy = 0.7843, Dev Accuracy = 0.6980, Epoch 59 get 2.72p to train
+2026-05-02 12:01:04,214 - INFO - Epoch 60: Train Loss = 0.5515, Dev Loss = 0.9412, Train Accuracy = 0.7876, Dev Accuracy = 0.6941, Epoch 60 get 2.69p to train
+2026-05-02 12:03:50,690 - INFO - Epoch 61: Train Loss = 0.5480, Dev Loss = 0.9322, Train Accuracy = 0.7873, Dev Accuracy = 0.7004, Epoch 61 get 2.72p to train
+2026-05-02 12:06:41,210 - INFO - Epoch 62: Train Loss = 0.5465, Dev Loss = 0.9301, Train Accuracy = 0.7895, Dev Accuracy = 0.6984, Epoch 62 get 2.79p to train
+2026-05-02 12:09:31,615 - INFO - Epoch 63: Train Loss = 0.5467, Dev Loss = 0.9344, Train Accuracy = 0.7891, Dev Accuracy = 0.6970, Epoch 63 get 2.78p to train
+2026-05-02 12:12:15,678 - INFO - Epoch 64: Train Loss = 0.5461, Dev Loss = 0.9343, Train Accuracy = 0.7887, Dev Accuracy = 0.6953, Epoch 64 get 2.68p to train
+2026-05-02 12:15:05,304 - INFO - Epoch 65: Train Loss = 0.5445, Dev Loss = 0.9214, Train Accuracy = 0.7897, Dev Accuracy = 0.7032, Epoch 65 get 2.77p to train
+2026-05-02 12:17:54,165 - INFO - Epoch 66: Train Loss = 0.5434, Dev Loss = 0.9301, Train Accuracy = 0.7900, Dev Accuracy = 0.7004, Epoch 66 get 2.76p to train
+2026-05-02 12:20:41,843 - INFO - Epoch 67: Train Loss = 0.5435, Dev Loss = 0.9166, Train Accuracy = 0.7893, Dev Accuracy = 0.7042, Epoch 67 get 2.74p to train
+2026-05-02 12:23:31,014 - INFO - Epoch 68: Train Loss = 0.5426, Dev Loss = 0.9183, Train Accuracy = 0.7897, Dev Accuracy = 0.6996, Epoch 68 get 2.77p to train
+2026-05-02 12:26:17,529 - INFO - Epoch 69: Train Loss = 0.5429, Dev Loss = 0.9243, Train Accuracy = 0.7916, Dev Accuracy = 0.7016, Epoch 69 get 2.72p to train
+2026-05-02 12:29:06,539 - INFO - Epoch 70: Train Loss = 0.5439, Dev Loss = 0.9224, Train Accuracy = 0.7884, Dev Accuracy = 0.7022, Epoch 70 get 2.76p to train
+2026-05-02 12:31:53,631 - INFO - Epoch 71: Train Loss = 0.5415, Dev Loss = 0.9302, Train Accuracy = 0.7911, Dev Accuracy = 0.7001, Epoch 71 get 2.73p to train
+2026-05-02 12:34:43,866 - INFO - Epoch 72: Train Loss = 0.5437, Dev Loss = 0.9355, Train Accuracy = 0.7901, Dev Accuracy = 0.6988, Epoch 72 get 2.78p to train
+2026-05-02 12:37:33,633 - INFO - Epoch 73: Train Loss = 0.5404, Dev Loss = 0.9257, Train Accuracy = 0.7913, Dev Accuracy = 0.6986, Epoch 73 get 2.77p to train
+2026-05-02 12:40:22,322 - INFO - Epoch 74: Train Loss = 0.5441, Dev Loss = 0.9416, Train Accuracy = 0.7908, Dev Accuracy = 0.6963, Epoch 74 get 2.75p to train
+2026-05-02 12:43:05,094 - INFO - Epoch 75: Train Loss = 0.5424, Dev Loss = 0.9223, Train Accuracy = 0.7908, Dev Accuracy = 0.7071, Epoch 75 get 2.66p to train
+2026-05-02 12:45:51,428 - INFO - Epoch 76: Train Loss = 0.5404, Dev Loss = 0.9321, Train Accuracy = 0.7906, Dev Accuracy = 0.7016, Epoch 76 get 2.72p to train
+2026-05-02 12:48:46,477 - INFO - Epoch 77: Train Loss = 0.5364, Dev Loss = 0.9194, Train Accuracy = 0.7930, Dev Accuracy = 0.7032, Epoch 77 get 2.86p to train
+2026-05-02 12:51:41,802 - INFO - Epoch 78: Train Loss = 0.5381, Dev Loss = 0.9309, Train Accuracy = 0.7925, Dev Accuracy = 0.7036, Epoch 78 get 2.87p to train
+2026-05-02 12:54:29,352 - INFO - Epoch 79: Train Loss = 0.5382, Dev Loss = 0.9344, Train Accuracy = 0.7924, Dev Accuracy = 0.7030, Epoch 79 get 2.74p to train
+2026-05-02 12:57:16,849 - INFO - Epoch 80: Train Loss = 0.5426, Dev Loss = 0.9507, Train Accuracy = 0.7908, Dev Accuracy = 0.6955, Epoch 80 get 2.74p to train
+2026-05-02 13:00:05,704 - INFO - Epoch 81: Train Loss = 0.5395, Dev Loss = 0.9277, Train Accuracy = 0.7933, Dev Accuracy = 0.7018, Epoch 81 get 2.76p to train
+2026-05-02 13:02:53,860 - INFO - Epoch 82: Train Loss = 0.5395, Dev Loss = 0.9262, Train Accuracy = 0.7915, Dev Accuracy = 0.6988, Epoch 82 get 2.74p to train
+2026-05-02 13:05:44,071 - INFO - Epoch 83: Train Loss = 0.5375, Dev Loss = 0.9308, Train Accuracy = 0.7940, Dev Accuracy = 0.7047, Epoch 83 get 2.78p to train
+2026-05-02 13:08:30,121 - INFO - Epoch 84: Train Loss = 0.5383, Dev Loss = 0.9282, Train Accuracy = 0.7930, Dev Accuracy = 0.7078, Epoch 84 get 2.71p to train
+2026-05-02 13:11:15,869 - INFO - Epoch 85: Train Loss = 0.5351, Dev Loss = 0.9381, Train Accuracy = 0.7931, Dev Accuracy = 0.7012, Epoch 85 get 2.70p to train
+2026-05-02 13:14:06,253 - INFO - Epoch 86: Train Loss = 0.5387, Dev Loss = 0.9292, Train Accuracy = 0.7932, Dev Accuracy = 0.7047, Epoch 86 get 2.78p to train
+2026-05-02 13:16:55,120 - INFO - Epoch 87: Train Loss = 0.5357, Dev Loss = 0.9439, Train Accuracy = 0.7930, Dev Accuracy = 0.7004, Epoch 87 get 2.76p to train
+2026-05-02 13:19:40,804 - INFO - Epoch 88: Train Loss = 0.5358, Dev Loss = 0.9287, Train Accuracy = 0.7932, Dev Accuracy = 0.7014, Epoch 88 get 2.71p to train
+2026-05-02 13:22:30,323 - INFO - Epoch 89: Train Loss = 0.5364, Dev Loss = 0.9550, Train Accuracy = 0.7939, Dev Accuracy = 0.6993, Epoch 89 get 2.77p to train
+2026-05-02 13:25:13,106 - INFO - Epoch 90: Train Loss = 0.5371, Dev Loss = 0.9538, Train Accuracy = 0.7925, Dev Accuracy = 0.6958, Epoch 90 get 2.66p to train
+2026-05-02 13:28:05,504 - INFO - Epoch 91: Train Loss = 0.5355, Dev Loss = 0.9221, Train Accuracy = 0.7944, Dev Accuracy = 0.7096, Epoch 91 get 2.82p to train
+2026-05-02 13:30:56,544 - INFO - Epoch 92: Train Loss = 0.5368, Dev Loss = 0.9407, Train Accuracy = 0.7930, Dev Accuracy = 0.6995, Epoch 92 get 2.80p to train
+2026-05-02 13:33:46,969 - INFO - Epoch 93: Train Loss = 0.5361, Dev Loss = 0.9532, Train Accuracy = 0.7935, Dev Accuracy = 0.6961, Epoch 93 get 2.78p to train
+2026-05-02 13:36:39,589 - INFO - Epoch 94: Train Loss = 0.5363, Dev Loss = 0.9382, Train Accuracy = 0.7925, Dev Accuracy = 0.7011, Epoch 94 get 2.82p to train
+2026-05-02 13:39:25,223 - INFO - Epoch 95: Train Loss = 0.5387, Dev Loss = 0.9365, Train Accuracy = 0.7932, Dev Accuracy = 0.7029, Epoch 95 get 2.71p to train
+2026-05-02 13:42:18,299 - INFO - Epoch 96: Train Loss = 0.5334, Dev Loss = 0.9183, Train Accuracy = 0.7948, Dev Accuracy = 0.7059, Epoch 96 get 2.82p to train
+2026-05-02 13:45:15,670 - INFO - Epoch 97: Train Loss = 0.5377, Dev Loss = 0.9305, Train Accuracy = 0.7932, Dev Accuracy = 0.7062, Epoch 97 get 2.90p to train
+2026-05-02 13:48:04,402 - INFO - Epoch 98: Train Loss = 0.5334, Dev Loss = 0.9461, Train Accuracy = 0.7942, Dev Accuracy = 0.6972, Epoch 98 get 2.76p to train
+2026-05-02 13:50:55,112 - INFO - Epoch 99: Train Loss = 0.5351, Dev Loss = 0.9347, Train Accuracy = 0.7941, Dev Accuracy = 0.6996, Epoch 99 get 2.79p to train
+2026-05-02 13:53:48,806 - INFO - Epoch 100: Train Loss = 0.5381, Dev Loss = 0.9423, Train Accuracy = 0.7931, Dev Accuracy = 0.6941, Epoch 100 get 2.84p to train
+2026-05-02 15:08:57,232 - INFO - Epoch 1: Train Loss = 1.2877, Dev Loss = 1.1450, Train Accuracy = 0.3888, Dev Accuracy = 0.4880, Epoch 1 get 5.03p to train
+2026-05-02 15:14:15,627 - INFO - Epoch 2: Train Loss = 1.1116, Dev Loss = 1.0717, Train Accuracy = 0.5148, Dev Accuracy = 0.5393, Epoch 2 get 5.21p to train
+2026-05-02 15:19:27,731 - INFO - Epoch 3: Train Loss = 1.0444, Dev Loss = 1.0278, Train Accuracy = 0.5542, Dev Accuracy = 0.5646, Epoch 3 get 5.10p to train
+2026-05-02 15:24:42,684 - INFO - Epoch 4: Train Loss = 1.0027, Dev Loss = 1.0223, Train Accuracy = 0.5772, Dev Accuracy = 0.5678, Epoch 4 get 5.15p to train
+2026-05-02 15:30:02,765 - INFO - Epoch 5: Train Loss = 0.9731, Dev Loss = 0.9654, Train Accuracy = 0.5931, Dev Accuracy = 0.5964, Epoch 5 get 5.24p to train
+2026-05-02 15:35:17,634 - INFO - Epoch 6: Train Loss = 0.9505, Dev Loss = 0.9626, Train Accuracy = 0.6035, Dev Accuracy = 0.5925, Epoch 6 get 5.15p to train
+2026-05-02 15:40:42,864 - INFO - Epoch 7: Train Loss = 0.9312, Dev Loss = 0.9697, Train Accuracy = 0.6137, Dev Accuracy = 0.6078, Epoch 7 get 5.32p to train
+2026-05-02 15:46:18,819 - INFO - Epoch 8: Train Loss = 0.9114, Dev Loss = 0.9508, Train Accuracy = 0.6232, Dev Accuracy = 0.6199, Epoch 8 get 5.50p to train
+2026-05-02 15:51:45,656 - INFO - Epoch 9: Train Loss = 0.8974, Dev Loss = 0.9563, Train Accuracy = 0.6308, Dev Accuracy = 0.6188, Epoch 9 get 5.34p to train
+2026-05-02 15:57:19,175 - INFO - Epoch 10: Train Loss = 0.8836, Dev Loss = 0.9493, Train Accuracy = 0.6385, Dev Accuracy = 0.6183, Epoch 10 get 5.46p to train
+2026-05-02 16:02:49,186 - INFO - Epoch 11: Train Loss = 0.8695, Dev Loss = 0.9250, Train Accuracy = 0.6443, Dev Accuracy = 0.6347, Epoch 11 get 5.40p to train
+2026-05-02 16:08:05,875 - INFO - Epoch 12: Train Loss = 0.8593, Dev Loss = 0.9236, Train Accuracy = 0.6499, Dev Accuracy = 0.6312, Epoch 12 get 5.18p to train
+2026-05-02 16:13:17,184 - INFO - Epoch 13: Train Loss = 0.8474, Dev Loss = 0.9107, Train Accuracy = 0.6545, Dev Accuracy = 0.6391, Epoch 13 get 5.09p to train
+2026-05-02 16:18:30,022 - INFO - Epoch 14: Train Loss = 0.8355, Dev Loss = 0.9132, Train Accuracy = 0.6614, Dev Accuracy = 0.6508, Epoch 14 get 5.12p to train
+2026-05-02 16:23:47,716 - INFO - Epoch 15: Train Loss = 0.8230, Dev Loss = 0.8759, Train Accuracy = 0.6678, Dev Accuracy = 0.6472, Epoch 15 get 5.20p to train
+2026-05-02 16:29:12,887 - INFO - Epoch 16: Train Loss = 0.8120, Dev Loss = 0.8851, Train Accuracy = 0.6731, Dev Accuracy = 0.6538, Epoch 16 get 5.32p to train
+2026-05-02 16:34:39,132 - INFO - Epoch 17: Train Loss = 0.7993, Dev Loss = 0.9151, Train Accuracy = 0.6780, Dev Accuracy = 0.6582, Epoch 17 get 5.33p to train
+2026-05-02 16:40:16,801 - INFO - Epoch 18: Train Loss = 0.7874, Dev Loss = 0.8965, Train Accuracy = 0.6832, Dev Accuracy = 0.6618, Epoch 18 get 5.52p to train
+2026-05-02 16:46:00,569 - INFO - Epoch 19: Train Loss = 0.7765, Dev Loss = 0.8804, Train Accuracy = 0.6891, Dev Accuracy = 0.6601, Epoch 19 get 5.63p to train
+2026-05-02 16:51:31,255 - INFO - Epoch 20: Train Loss = 0.7657, Dev Loss = 0.9022, Train Accuracy = 0.6942, Dev Accuracy = 0.6696, Epoch 20 get 5.40p to train
+2026-05-02 16:57:01,529 - INFO - Epoch 21: Train Loss = 0.7462, Dev Loss = 0.8498, Train Accuracy = 0.7028, Dev Accuracy = 0.6720, Epoch 21 get 5.41p to train
+2026-05-02 17:02:11,865 - INFO - Epoch 22: Train Loss = 0.7342, Dev Loss = 0.8469, Train Accuracy = 0.7082, Dev Accuracy = 0.6796, Epoch 22 get 5.07p to train
+2026-05-02 17:07:22,614 - INFO - Epoch 23: Train Loss = 0.7181, Dev Loss = 0.8267, Train Accuracy = 0.7151, Dev Accuracy = 0.6851, Epoch 23 get 5.08p to train
+2026-05-02 17:12:34,538 - INFO - Epoch 24: Train Loss = 0.7079, Dev Loss = 0.8395, Train Accuracy = 0.7200, Dev Accuracy = 0.6858, Epoch 24 get 5.10p to train
+2026-05-02 17:17:53,994 - INFO - Epoch 25: Train Loss = 0.6896, Dev Loss = 0.8436, Train Accuracy = 0.7278, Dev Accuracy = 0.6861, Epoch 25 get 5.22p to train
+2026-05-02 17:23:12,790 - INFO - Epoch 26: Train Loss = 0.6754, Dev Loss = 0.8312, Train Accuracy = 0.7340, Dev Accuracy = 0.6951, Epoch 26 get 5.21p to train
+2026-05-02 17:28:26,160 - INFO - Epoch 27: Train Loss = 0.6618, Dev Loss = 0.8208, Train Accuracy = 0.7401, Dev Accuracy = 0.6964, Epoch 27 get 5.12p to train
+2026-05-02 17:33:36,262 - INFO - Epoch 28: Train Loss = 0.6403, Dev Loss = 0.8297, Train Accuracy = 0.7505, Dev Accuracy = 0.6933, Epoch 28 get 5.07p to train
+2026-05-02 17:38:47,379 - INFO - Epoch 29: Train Loss = 0.6264, Dev Loss = 0.8448, Train Accuracy = 0.7569, Dev Accuracy = 0.6983, Epoch 29 get 5.09p to train
+2026-05-02 17:44:00,367 - INFO - Epoch 30: Train Loss = 0.6056, Dev Loss = 0.8607, Train Accuracy = 0.7664, Dev Accuracy = 0.7053, Epoch 30 get 5.12p to train
+2026-05-02 17:49:14,566 - INFO - Epoch 31: Train Loss = 0.5382, Dev Loss = 0.8588, Train Accuracy = 0.7952, Dev Accuracy = 0.7126, Epoch 31 get 5.14p to train
+2026-05-02 17:54:31,882 - INFO - Epoch 32: Train Loss = 0.5131, Dev Loss = 0.8519, Train Accuracy = 0.8058, Dev Accuracy = 0.7174, Epoch 32 get 5.19p to train
+2026-05-02 18:00:02,024 - INFO - Epoch 33: Train Loss = 0.5011, Dev Loss = 0.8497, Train Accuracy = 0.8106, Dev Accuracy = 0.7226, Epoch 33 get 5.40p to train
+2026-05-02 18:05:38,663 - INFO - Epoch 34: Train Loss = 0.4933, Dev Loss = 0.8522, Train Accuracy = 0.8160, Dev Accuracy = 0.7188, Epoch 34 get 5.51p to train
+2026-05-02 18:10:58,580 - INFO - Epoch 35: Train Loss = 0.4853, Dev Loss = 0.8662, Train Accuracy = 0.8173, Dev Accuracy = 0.7196, Epoch 35 get 5.23p to train
+2026-05-02 18:16:18,407 - INFO - Epoch 36: Train Loss = 0.4773, Dev Loss = 0.8751, Train Accuracy = 0.8211, Dev Accuracy = 0.7170, Epoch 36 get 5.23p to train
+2026-05-02 18:21:37,493 - INFO - Epoch 37: Train Loss = 0.4728, Dev Loss = 0.8896, Train Accuracy = 0.8226, Dev Accuracy = 0.7159, Epoch 37 get 5.22p to train
+2026-05-02 18:26:54,252 - INFO - Epoch 38: Train Loss = 0.4641, Dev Loss = 0.8803, Train Accuracy = 0.8273, Dev Accuracy = 0.7253, Epoch 38 get 5.18p to train
+2026-05-02 18:32:08,318 - INFO - Epoch 39: Train Loss = 0.4596, Dev Loss = 0.8870, Train Accuracy = 0.8297, Dev Accuracy = 0.7212, Epoch 39 get 5.14p to train
+2026-05-02 18:37:16,330 - INFO - Epoch 40: Train Loss = 0.4563, Dev Loss = 0.8745, Train Accuracy = 0.8306, Dev Accuracy = 0.7201, Epoch 40 get 5.04p to train
+2026-05-02 18:42:30,667 - INFO - Epoch 41: Train Loss = 0.4519, Dev Loss = 0.8974, Train Accuracy = 0.8330, Dev Accuracy = 0.7232, Epoch 41 get 5.14p to train
+2026-05-03 17:04:18,226 - INFO - Epoch 1: Train Loss = 1.2750, Dev Loss = 1.1585, Train Accuracy = 0.3991, Dev Accuracy = 0.4791, Epoch 1 get 4.95p to train
+2026-05-03 17:09:21,071 - INFO - Epoch 2: Train Loss = 1.1281, Dev Loss = 1.1181, Train Accuracy = 0.5057, Dev Accuracy = 0.5187, Epoch 2 get 4.95p to train
+2026-05-03 17:14:38,415 - INFO - Epoch 3: Train Loss = 1.0758, Dev Loss = 1.0847, Train Accuracy = 0.5374, Dev Accuracy = 0.5329, Epoch 3 get 5.19p to train
+2026-05-03 17:20:04,004 - INFO - Epoch 4: Train Loss = 1.0416, Dev Loss = 1.0386, Train Accuracy = 0.5584, Dev Accuracy = 0.5596, Epoch 4 get 5.32p to train
+2026-05-03 17:25:37,131 - INFO - Epoch 5: Train Loss = 1.0129, Dev Loss = 1.0486, Train Accuracy = 0.5722, Dev Accuracy = 0.5678, Epoch 5 get 5.46p to train
+2026-05-03 17:30:40,318 - INFO - Epoch 6: Train Loss = 0.9928, Dev Loss = 1.0150, Train Accuracy = 0.5835, Dev Accuracy = 0.5803, Epoch 6 get 4.95p to train
+2026-05-03 17:35:52,933 - INFO - Epoch 7: Train Loss = 0.9734, Dev Loss = 1.0088, Train Accuracy = 0.5948, Dev Accuracy = 0.5908, Epoch 7 get 5.12p to train
+2026-05-03 17:41:06,769 - INFO - Epoch 8: Train Loss = 0.9598, Dev Loss = 0.9860, Train Accuracy = 0.6000, Dev Accuracy = 0.5993, Epoch 8 get 5.13p to train
+2026-05-03 17:46:13,802 - INFO - Epoch 9: Train Loss = 0.9421, Dev Loss = 0.9797, Train Accuracy = 0.6091, Dev Accuracy = 0.6000, Epoch 9 get 5.02p to train
+2026-05-03 17:51:17,013 - INFO - Epoch 10: Train Loss = 0.9338, Dev Loss = 0.9608, Train Accuracy = 0.6153, Dev Accuracy = 0.6050, Epoch 10 get 4.96p to train
+2026-05-03 17:56:34,605 - INFO - Epoch 11: Train Loss = 0.9185, Dev Loss = 0.9358, Train Accuracy = 0.6216, Dev Accuracy = 0.6254, Epoch 11 get 5.20p to train
+2026-05-03 18:01:45,838 - INFO - Epoch 12: Train Loss = 0.9062, Dev Loss = 0.9418, Train Accuracy = 0.6279, Dev Accuracy = 0.6136, Epoch 12 get 5.09p to train
+2026-05-03 18:06:49,826 - INFO - Epoch 13: Train Loss = 0.8924, Dev Loss = 0.9253, Train Accuracy = 0.6342, Dev Accuracy = 0.6243, Epoch 13 get 4.97p to train
+2026-05-03 18:11:59,162 - INFO - Epoch 14: Train Loss = 0.8799, Dev Loss = 0.9291, Train Accuracy = 0.6403, Dev Accuracy = 0.6268, Epoch 14 get 5.05p to train
+2026-05-03 18:17:12,654 - INFO - Epoch 15: Train Loss = 0.8669, Dev Loss = 0.9077, Train Accuracy = 0.6463, Dev Accuracy = 0.6322, Epoch 15 get 5.13p to train
+2026-05-03 18:22:16,685 - INFO - Epoch 16: Train Loss = 0.8542, Dev Loss = 0.9114, Train Accuracy = 0.6532, Dev Accuracy = 0.6355, Epoch 16 get 4.97p to train
+2026-05-03 18:27:29,754 - INFO - Epoch 17: Train Loss = 0.8376, Dev Loss = 0.8873, Train Accuracy = 0.6591, Dev Accuracy = 0.6446, Epoch 17 get 5.12p to train
+2026-05-03 18:32:37,317 - INFO - Epoch 18: Train Loss = 0.8240, Dev Loss = 0.8919, Train Accuracy = 0.6661, Dev Accuracy = 0.6353, Epoch 18 get 5.02p to train
+2026-05-03 18:37:51,339 - INFO - Epoch 19: Train Loss = 0.8057, Dev Loss = 0.9003, Train Accuracy = 0.6744, Dev Accuracy = 0.6533, Epoch 19 get 5.14p to train
+2026-05-03 18:42:57,665 - INFO - Epoch 20: Train Loss = 0.7931, Dev Loss = 0.8791, Train Accuracy = 0.6807, Dev Accuracy = 0.6568, Epoch 20 get 5.01p to train
+2026-05-03 18:48:12,686 - INFO - Epoch 21: Train Loss = 0.7771, Dev Loss = 0.8577, Train Accuracy = 0.6874, Dev Accuracy = 0.6624, Epoch 21 get 5.15p to train
+2026-05-03 18:53:15,492 - INFO - Epoch 22: Train Loss = 0.7645, Dev Loss = 0.8684, Train Accuracy = 0.6923, Dev Accuracy = 0.6626, Epoch 22 get 4.95p to train
+2026-05-03 18:58:27,974 - INFO - Epoch 23: Train Loss = 0.7509, Dev Loss = 0.8643, Train Accuracy = 0.6992, Dev Accuracy = 0.6667, Epoch 23 get 5.10p to train
+2026-05-03 19:03:30,147 - INFO - Epoch 24: Train Loss = 0.7334, Dev Loss = 0.8566, Train Accuracy = 0.7079, Dev Accuracy = 0.6680, Epoch 24 get 4.94p to train
+2026-05-03 19:08:41,208 - INFO - Epoch 25: Train Loss = 0.7189, Dev Loss = 0.8614, Train Accuracy = 0.7135, Dev Accuracy = 0.6733, Epoch 25 get 5.09p to train
+2026-05-03 19:13:49,500 - INFO - Epoch 26: Train Loss = 0.7047, Dev Loss = 0.8650, Train Accuracy = 0.7201, Dev Accuracy = 0.6725, Epoch 26 get 5.04p to train
+2026-05-03 19:19:02,322 - INFO - Epoch 27: Train Loss = 0.6891, Dev Loss = 0.8584, Train Accuracy = 0.7267, Dev Accuracy = 0.6805, Epoch 27 get 5.12p to train
+2026-05-03 19:24:04,572 - INFO - Epoch 28: Train Loss = 0.6770, Dev Loss = 0.8798, Train Accuracy = 0.7324, Dev Accuracy = 0.6775, Epoch 28 get 4.94p to train
+2026-05-03 19:29:10,197 - INFO - Epoch 29: Train Loss = 0.6619, Dev Loss = 0.8544, Train Accuracy = 0.7394, Dev Accuracy = 0.6858, Epoch 29 get 5.00p to train
+2026-05-03 19:34:12,753 - INFO - Epoch 30: Train Loss = 0.6500, Dev Loss = 0.8589, Train Accuracy = 0.7432, Dev Accuracy = 0.6845, Epoch 30 get 4.95p to train
+2026-05-03 19:39:13,604 - INFO - Epoch 31: Train Loss = 0.5856, Dev Loss = 0.8464, Train Accuracy = 0.7725, Dev Accuracy = 0.7047, Epoch 31 get 4.92p to train
+2026-05-03 19:44:21,851 - INFO - Epoch 32: Train Loss = 0.5551, Dev Loss = 0.8865, Train Accuracy = 0.7864, Dev Accuracy = 0.6962, Epoch 32 get 5.04p to train
+2026-05-03 19:49:28,645 - INFO - Epoch 33: Train Loss = 0.5374, Dev Loss = 0.8564, Train Accuracy = 0.7933, Dev Accuracy = 0.7067, Epoch 33 get 5.02p to train
+2026-05-03 19:54:42,943 - INFO - Epoch 34: Train Loss = 0.5255, Dev Loss = 0.9060, Train Accuracy = 0.7994, Dev Accuracy = 0.7028, Epoch 34 get 5.14p to train
+2026-05-03 19:59:54,135 - INFO - Epoch 35: Train Loss = 0.5186, Dev Loss = 0.9005, Train Accuracy = 0.8025, Dev Accuracy = 0.7005, Epoch 35 get 5.09p to train
+2026-05-03 20:05:01,391 - INFO - Epoch 36: Train Loss = 0.5089, Dev Loss = 0.9014, Train Accuracy = 0.8052, Dev Accuracy = 0.6954, Epoch 36 get 5.02p to train
+2026-05-03 20:10:17,749 - INFO - Epoch 37: Train Loss = 0.5042, Dev Loss = 0.8949, Train Accuracy = 0.8074, Dev Accuracy = 0.7051, Epoch 37 get 5.17p to train
+2026-05-03 20:15:55,805 - INFO - Epoch 38: Train Loss = 0.4974, Dev Loss = 0.9058, Train Accuracy = 0.8119, Dev Accuracy = 0.7026, Epoch 38 get 5.53p to train
+2026-05-03 20:21:38,816 - INFO - Epoch 39: Train Loss = 0.4910, Dev Loss = 0.9202, Train Accuracy = 0.8143, Dev Accuracy = 0.6980, Epoch 39 get 5.61p to train
+2026-05-03 20:27:22,918 - INFO - Epoch 40: Train Loss = 0.4812, Dev Loss = 0.8931, Train Accuracy = 0.8188, Dev Accuracy = 0.7049, Epoch 40 get 5.63p to train
+2026-05-03 20:32:45,026 - INFO - Epoch 41: Train Loss = 0.4833, Dev Loss = 0.9295, Train Accuracy = 0.8173, Dev Accuracy = 0.7037, Epoch 41 get 5.27p to train
+2026-05-03 20:38:32,232 - INFO - Epoch 42: Train Loss = 0.4759, Dev Loss = 0.9267, Train Accuracy = 0.8216, Dev Accuracy = 0.7026, Epoch 42 get 5.69p to train
+2026-05-03 20:43:55,508 - INFO - Epoch 43: Train Loss = 0.4716, Dev Loss = 0.9075, Train Accuracy = 0.8233, Dev Accuracy = 0.7108, Epoch 43 get 5.29p to train
+2026-05-03 20:49:16,058 - INFO - Epoch 44: Train Loss = 0.4694, Dev Loss = 0.9135, Train Accuracy = 0.8228, Dev Accuracy = 0.7014, Epoch 44 get 5.24p to train
+2026-05-03 20:54:35,421 - INFO - Epoch 45: Train Loss = 0.4623, Dev Loss = 0.9163, Train Accuracy = 0.8276, Dev Accuracy = 0.7078, Epoch 45 get 5.23p to train
+2026-05-03 20:59:57,629 - INFO - Epoch 46: Train Loss = 0.4595, Dev Loss = 0.9249, Train Accuracy = 0.8287, Dev Accuracy = 0.7062, Epoch 46 get 5.27p to train
+2026-05-03 21:05:35,067 - INFO - Epoch 47: Train Loss = 0.4546, Dev Loss = 0.9322, Train Accuracy = 0.8301, Dev Accuracy = 0.7066, Epoch 47 get 5.53p to train
+2026-05-03 21:11:01,361 - INFO - Epoch 48: Train Loss = 0.4495, Dev Loss = 0.9434, Train Accuracy = 0.8323, Dev Accuracy = 0.7062, Epoch 48 get 5.34p to train
+2026-05-03 21:16:21,588 - INFO - Epoch 49: Train Loss = 0.4491, Dev Loss = 0.9437, Train Accuracy = 0.8333, Dev Accuracy = 0.7063, Epoch 49 get 5.24p to train
+2026-05-03 21:22:04,391 - INFO - Epoch 50: Train Loss = 0.4416, Dev Loss = 0.9590, Train Accuracy = 0.8354, Dev Accuracy = 0.7021, Epoch 50 get 5.61p to train
+2026-05-03 21:27:40,165 - INFO - Epoch 51: Train Loss = 0.4441, Dev Loss = 0.9361, Train Accuracy = 0.8362, Dev Accuracy = 0.7068, Epoch 51 get 5.50p to train
+2026-05-03 21:33:16,488 - INFO - Epoch 52: Train Loss = 0.4397, Dev Loss = 0.9473, Train Accuracy = 0.8379, Dev Accuracy = 0.7163, Epoch 52 get 5.50p to train
+2026-05-03 21:38:48,306 - INFO - Epoch 53: Train Loss = 0.4385, Dev Loss = 0.9531, Train Accuracy = 0.8381, Dev Accuracy = 0.7079, Epoch 53 get 5.43p to train
+2026-05-03 21:44:15,648 - INFO - Epoch 54: Train Loss = 0.4325, Dev Loss = 0.9446, Train Accuracy = 0.8402, Dev Accuracy = 0.7075, Epoch 54 get 5.36p to train
+2026-05-03 21:49:40,425 - INFO - Epoch 55: Train Loss = 0.4309, Dev Loss = 0.9262, Train Accuracy = 0.8418, Dev Accuracy = 0.7159, Epoch 55 get 5.31p to train
+2026-05-03 21:55:16,518 - INFO - Epoch 56: Train Loss = 0.4272, Dev Loss = 0.9390, Train Accuracy = 0.8438, Dev Accuracy = 0.7087, Epoch 56 get 5.50p to train
+2026-05-03 22:00:56,527 - INFO - Epoch 57: Train Loss = 0.4228, Dev Loss = 0.9693, Train Accuracy = 0.8440, Dev Accuracy = 0.7143, Epoch 57 get 5.57p to train
+2026-05-03 22:06:30,966 - INFO - Epoch 58: Train Loss = 0.4194, Dev Loss = 0.9401, Train Accuracy = 0.8461, Dev Accuracy = 0.7133, Epoch 58 get 5.48p to train
+2026-05-03 22:12:04,026 - INFO - Epoch 59: Train Loss = 0.4173, Dev Loss = 0.9504, Train Accuracy = 0.8465, Dev Accuracy = 0.7087, Epoch 59 get 5.45p to train
+2026-05-03 22:17:38,487 - INFO - Epoch 60: Train Loss = 0.4156, Dev Loss = 0.9334, Train Accuracy = 0.8486, Dev Accuracy = 0.7134, Epoch 60 get 5.47p to train
+2026-05-03 22:23:14,672 - INFO - Epoch 61: Train Loss = 0.4073, Dev Loss = 0.9608, Train Accuracy = 0.8518, Dev Accuracy = 0.7043, Epoch 61 get 5.50p to train
+2026-05-03 22:28:30,086 - INFO - Epoch 62: Train Loss = 0.4086, Dev Loss = 0.9422, Train Accuracy = 0.8508, Dev Accuracy = 0.7201, Epoch 62 get 5.16p to train
+2026-05-03 22:33:51,807 - INFO - Epoch 63: Train Loss = 0.4070, Dev Loss = 0.9627, Train Accuracy = 0.8526, Dev Accuracy = 0.7109, Epoch 63 get 5.26p to train
+2026-05-03 22:39:12,553 - INFO - Epoch 64: Train Loss = 0.4062, Dev Loss = 0.9626, Train Accuracy = 0.8519, Dev Accuracy = 0.7103, Epoch 64 get 5.25p to train
+2026-05-05 09:24:53,029 - INFO - Epoch 1: Train Loss = 0.0004, Dev Loss = 1.4487, Train Accuracy = 0.2519, Dev Accuracy = 0.2449, Epoch 1 get 1.32p to train
+2026-05-05 09:26:07,733 - INFO - Epoch 2: Train Loss = 0.0004, Dev Loss = 1.4748, Train Accuracy = 0.2523, Dev Accuracy = 0.2489, Epoch 2 get 1.21p to train
+2026-05-05 09:27:28,136 - INFO - Epoch 3: Train Loss = 0.0004, Dev Loss = 1.4844, Train Accuracy = 0.2512, Dev Accuracy = 0.2496, Epoch 3 get 1.31p to train
+2026-05-05 09:28:48,297 - INFO - Epoch 4: Train Loss = 0.0004, Dev Loss = 1.4589, Train Accuracy = 0.2632, Dev Accuracy = 0.2620, Epoch 4 get 1.30p to train
+2026-05-05 09:30:08,842 - INFO - Epoch 5: Train Loss = 0.0004, Dev Loss = 1.4247, Train Accuracy = 0.2625, Dev Accuracy = 0.2746, Epoch 5 get 1.31p to train
+2026-05-05 09:31:26,703 - INFO - Epoch 6: Train Loss = 0.0004, Dev Loss = 1.4669, Train Accuracy = 0.2691, Dev Accuracy = 0.2686, Epoch 6 get 1.27p to train
+2026-05-05 09:32:47,694 - INFO - Epoch 7: Train Loss = 0.0004, Dev Loss = 1.6680, Train Accuracy = 0.2777, Dev Accuracy = 0.2720, Epoch 7 get 1.32p to train
+2026-05-05 09:34:09,249 - INFO - Epoch 8: Train Loss = 0.0004, Dev Loss = 1.9703, Train Accuracy = 0.2794, Dev Accuracy = 0.2526, Epoch 8 get 1.33p to train
+2026-05-05 09:35:30,548 - INFO - Epoch 9: Train Loss = 0.0004, Dev Loss = 1.8646, Train Accuracy = 0.2813, Dev Accuracy = 0.2603, Epoch 9 get 1.32p to train
+2026-05-05 09:36:53,893 - INFO - Epoch 10: Train Loss = 0.0004, Dev Loss = 2.2634, Train Accuracy = 0.2875, Dev Accuracy = 0.2501, Epoch 10 get 1.36p to train
+2026-05-05 09:38:22,163 - INFO - Epoch 11: Train Loss = 0.0004, Dev Loss = 2.3342, Train Accuracy = 0.2918, Dev Accuracy = 0.2514, Epoch 11 get 1.44p to train
+2026-05-05 11:06:35,201 - INFO - Epoch 1: Train Loss = 1.4332, Dev Loss = 1.4222, Train Accuracy = 0.2467, Dev Accuracy = 0.2417, Epoch 1 get 1.88p to train
+2026-05-05 11:08:23,026 - INFO - Epoch 2: Train Loss = 1.2083, Dev Loss = 1.4800, Train Accuracy = 0.4585, Dev Accuracy = 0.4354, Epoch 2 get 1.76p to train
+2026-05-05 11:10:15,151 - INFO - Epoch 3: Train Loss = 1.0719, Dev Loss = 4.1249, Train Accuracy = 0.5445, Dev Accuracy = 0.2608, Epoch 3 get 1.84p to train
+2026-05-05 11:12:08,826 - INFO - Epoch 4: Train Loss = 1.0098, Dev Loss = 11.4268, Train Accuracy = 0.5816, Dev Accuracy = 0.2514, Epoch 4 get 1.86p to train
+2026-05-05 11:14:05,144 - INFO - Epoch 5: Train Loss = 0.9853, Dev Loss = 9.7607, Train Accuracy = 0.5947, Dev Accuracy = 0.2580, Epoch 5 get 1.91p to train
+2026-05-05 11:15:55,507 - INFO - Epoch 6: Train Loss = 0.9625, Dev Loss = 24.9519, Train Accuracy = 0.6059, Dev Accuracy = 0.2500, Epoch 6 get 1.81p to train
+2026-05-05 11:17:50,127 - INFO - Epoch 7: Train Loss = 0.9575, Dev Loss = 56.0476, Train Accuracy = 0.6068, Dev Accuracy = 0.2500, Epoch 7 get 1.88p to train
+2026-05-05 14:44:24,084 - INFO - Epoch 1: Train Loss = 1.3694, Dev Loss = 1.3553, Train Accuracy = 0.3158, Dev Accuracy = 0.3489, Epoch 1 get 2.68p to train
+2026-05-05 14:47:00,427 - INFO - Epoch 2: Train Loss = 1.3172, Dev Loss = 1.4569, Train Accuracy = 0.3744, Dev Accuracy = 0.3129, Epoch 2 get 2.56p to train
+2026-05-05 14:49:49,582 - INFO - Epoch 3: Train Loss = 1.3012, Dev Loss = 1.3023, Train Accuracy = 0.3831, Dev Accuracy = 0.3745, Epoch 3 get 2.77p to train
+2026-05-05 14:52:35,505 - INFO - Epoch 4: Train Loss = 1.2869, Dev Loss = 1.3029, Train Accuracy = 0.3939, Dev Accuracy = 0.3801, Epoch 4 get 2.69p to train
+2026-05-05 14:55:46,909 - INFO - Epoch 5: Train Loss = 1.2776, Dev Loss = 1.2831, Train Accuracy = 0.3994, Dev Accuracy = 0.3861, Epoch 5 get 3.14p to train
+2026-05-05 14:58:12,153 - INFO - Epoch 6: Train Loss = 1.2791, Dev Loss = 1.2694, Train Accuracy = 0.3977, Dev Accuracy = 0.4008, Epoch 6 get 2.38p to train
+2026-05-05 15:00:54,308 - INFO - Epoch 7: Train Loss = 1.2814, Dev Loss = 1.2953, Train Accuracy = 0.3964, Dev Accuracy = 0.3867, Epoch 7 get 2.65p to train
+2026-05-05 15:03:41,402 - INFO - Epoch 8: Train Loss = 1.2854, Dev Loss = 1.2783, Train Accuracy = 0.3920, Dev Accuracy = 0.3951, Epoch 8 get 2.73p to train
+2026-05-05 15:06:27,844 - INFO - Epoch 9: Train Loss = 1.2645, Dev Loss = 1.2636, Train Accuracy = 0.4087, Dev Accuracy = 0.4082, Epoch 9 get 2.73p to train
+2026-05-05 15:09:00,115 - INFO - Epoch 10: Train Loss = 1.2609, Dev Loss = 1.2391, Train Accuracy = 0.4105, Dev Accuracy = 0.4186, Epoch 10 get 2.50p to train
+2026-05-05 15:12:19,131 - INFO - Epoch 11: Train Loss = 1.2459, Dev Loss = 1.2370, Train Accuracy = 0.4243, Dev Accuracy = 0.4341, Epoch 11 get 3.25p to train
+2026-05-05 15:15:21,565 - INFO - Epoch 12: Train Loss = 1.2358, Dev Loss = 1.2264, Train Accuracy = 0.4305, Dev Accuracy = 0.4407, Epoch 12 get 3.00p to train
+2026-05-05 15:18:06,218 - INFO - Epoch 13: Train Loss = 1.2199, Dev Loss = 1.2119, Train Accuracy = 0.4449, Dev Accuracy = 0.4603, Epoch 13 get 2.70p to train
+2026-05-05 15:20:49,535 - INFO - Epoch 14: Train Loss = 1.1981, Dev Loss = 1.1866, Train Accuracy = 0.4578, Dev Accuracy = 0.4725, Epoch 14 get 2.67p to train
+2026-05-05 15:23:29,820 - INFO - Epoch 15: Train Loss = 1.1691, Dev Loss = 1.1601, Train Accuracy = 0.4800, Dev Accuracy = 0.4911, Epoch 15 get 2.62p to train
+2026-05-05 15:26:12,514 - INFO - Epoch 16: Train Loss = 1.1475, Dev Loss = 1.1184, Train Accuracy = 0.4949, Dev Accuracy = 0.5074, Epoch 16 get 2.66p to train
+2026-05-05 15:28:40,288 - INFO - Epoch 17: Train Loss = 1.1163, Dev Loss = 1.0861, Train Accuracy = 0.5135, Dev Accuracy = 0.5229, Epoch 17 get 2.41p to train
+2026-05-05 15:31:23,861 - INFO - Epoch 18: Train Loss = 1.0820, Dev Loss = 1.0672, Train Accuracy = 0.5348, Dev Accuracy = 0.5467, Epoch 18 get 2.68p to train
+2026-05-05 15:34:06,077 - INFO - Epoch 19: Train Loss = 1.0490, Dev Loss = 1.0315, Train Accuracy = 0.5538, Dev Accuracy = 0.5583, Epoch 19 get 2.65p to train
+2026-05-05 15:36:46,733 - INFO - Epoch 20: Train Loss = 1.0053, Dev Loss = 1.0041, Train Accuracy = 0.5795, Dev Accuracy = 0.5767, Epoch 20 get 2.63p to train
+2026-05-05 15:39:29,805 - INFO - Epoch 21: Train Loss = 0.9725, Dev Loss = 0.9847, Train Accuracy = 0.5968, Dev Accuracy = 0.5961, Epoch 21 get 2.67p to train
+2026-05-05 15:42:03,384 - INFO - Epoch 22: Train Loss = 0.9519, Dev Loss = 0.9789, Train Accuracy = 0.6092, Dev Accuracy = 0.6022, Epoch 22 get 2.51p to train
+2026-05-05 15:44:44,982 - INFO - Epoch 23: Train Loss = 0.9296, Dev Loss = 0.9674, Train Accuracy = 0.6212, Dev Accuracy = 0.6063, Epoch 23 get 2.64p to train
+2026-05-05 15:47:27,659 - INFO - Epoch 24: Train Loss = 0.9111, Dev Loss = 0.9335, Train Accuracy = 0.6318, Dev Accuracy = 0.6225, Epoch 24 get 2.66p to train
+2026-05-05 15:50:10,746 - INFO - Epoch 25: Train Loss = 0.8902, Dev Loss = 0.9513, Train Accuracy = 0.6422, Dev Accuracy = 0.6282, Epoch 25 get 2.67p to train
+2026-05-05 15:52:41,683 - INFO - Epoch 26: Train Loss = 0.8718, Dev Loss = 0.9105, Train Accuracy = 0.6505, Dev Accuracy = 0.6404, Epoch 26 get 2.47p to train
+2026-05-05 15:55:23,403 - INFO - Epoch 27: Train Loss = 0.8515, Dev Loss = 0.9180, Train Accuracy = 0.6595, Dev Accuracy = 0.6386, Epoch 27 get 2.65p to train
+2026-05-05 15:58:09,229 - INFO - Epoch 28: Train Loss = 0.8297, Dev Loss = 0.9687, Train Accuracy = 0.6695, Dev Accuracy = 0.6330, Epoch 28 get 2.71p to train
